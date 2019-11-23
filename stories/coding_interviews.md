@@ -1,4 +1,35 @@
-ON: Tech Interviews
+ON: Coding Interviews
+
+## How to get into FAANG
+* Prompt: Suggest the best resources for each topic that Faang interviewer can ask. You may include a few books as well if really needed, but I honestly prefer online resources. Also, I will be happier if you give the one resource recommendations for one topic. If you have two recommendations for some of the topics and you feel that I should go through both, then suggest both.
+* URL: https://www.rooftopslushie.com/request/How-to-get-into-FAANG---proper-plan-with-sources-241
+* The resources you need are fairly straightforward. I’m going to make this one long post and copy paste the response because you essentially are asking a derivation of each question in each section of your post.
+* Instead of simply answering your above post let me give you a rough timeline since you have no prior knowledge. Before Leetcode get 1 book. Go through MOST of Cracking the Coding Interview. I say most because there are sections (like the one on math) that are increasingly less important for CS interviews.
+* Follow the entirety of the book taking copious notes and attempting EVERY problem (NO SHORTCUTS!). You can think of the book as essentially your version of taking college level DS and Algo courses. Once you complete the book and problems you will have benefitted twofold:
+1. You will have practiced actual interview problems
+2. You will have a good framework for your preparation
+3. You will have 90% of the fundamentals down for all possible coding problems
+4. You should have / will have identified your weaknesses and know where to focus your study.
+
+* Follow the book’s guidelines on soft skills, resume prep, study timeline as well. Use it holistically as it was meant, it is an excellent resource.
+
+* I know you prefer online resources but this book is the most well rounded comprehensive interview prep book (ie it covers a lot of ground relatively succinctly that you will need for interviews, including system design).
+* Unfortunately I don’t believe this book is always sufficient prep by itself. So after you work through it your next step is to:
+1. Get leetcode premium
+2. Take the Grokking the System Design course
+
+* Use Leetcode Premium specifically to do problems that are tagged to companies you are interested in and to do additional practice on areas you are weak at (ie if you suck at Dynamic Programming sort by all top rated DP problems and do them from easiest to hardest to build your intuition).
+
+* Use Grokking the System Design Interview to cover ground not covered in Cracking the Coding Interview (CTCI). CTCI has a lot of great breadth but falls short of depth in some areas, this is one of them.
+
+* Your last step / piece of overarching advice here is to create a timeline of when you would like to interview and work backwards. Once you are starting to seriously think about interviewing it is time to both practice problems for time and to do mock interviews (interviewing.io etc). Do your prep only with a pen / paper and a whiteboard (if that is the medium you expect to be interviewing in) and work on time.
+
+* Once you hit the interviewing stage it is usually time to start scheduling some interviews you aren’t as psyched about for a test run. You need to get used to performing with interview jitters as well.
+
+* So to recap:
+
+* CTCI (maybe 3 months if no prior knowledge) -> Leetcode + Grokking (a month to start shoring things up) -> Keep Leetcoding / Practice + Doing mocks 1/2 times a week (a month) -> assess your progress if you’re ready to start interviewing -> Start doing interviews with lower priority companies -> Schedule interviews with FAANG
+
 
 => Google SWE (Blind: teamblind.com/article/Thank-you-Blind-JpZWEdHg)
 * Did about 300 LC [20/50/30] (I ended up getting leetcode premium) (about 7 months)
