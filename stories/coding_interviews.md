@@ -2,49 +2,45 @@ ON: Coding Interviews
 
 ## There are no shortcuts
 https://leetcode.com/discuss/interview-experience/424540/Google-or-L5-or-MTV-or-Oct-2019-Offer
-Status: Software Engineer with 15 years of Professional Experience
-Position: Google L5
-Location: Mountain View, CA
-Date: October 14, 2019
+* Status: Software Engineer with 15 years of Professional Experience
+* Position: Google L5
+* Location: Mountain View, CA
+* Date: October 14, 2019
 
 Background:
 
 Hi, my name is Clayton. First off I'd like to give a big thanks to the folks at leetcode (both problem setters and problem solvers), the questions and solutions posted on this site are helpful for understanding algorithms from multiple perspectives expressed via different thought processes and languages. I've paid for two 1-year leetcode subscriptions so far, and I strongly feel those were the two best investments I've made in years. I've been a professional software engineer since I graduated with a B.S. in Computer Science in 2004 from the University of Arizona. I honestly never really learned much about algorithms in my undergraduate studies. I simply learned enough about them to pass some tests. During my career, I slowly forgot whatever I did learn about algorithms. The majority of my professional work was performed in the wireless industry where I developed a highly proprietary skillset. When it was time for me to move on to the next chapter of my career, I had a very hard time with interviews. I was extremely uptight, nervous, and anxious about interviewing; and I failed 100% of the technical phone screens I attempted. I thought to myself, "What's wrong with me? Why am I receiving so many NOs?" Then I took a leetcode contest for the first time and answered none of the questions during that contest. This was a shock for me: as if this objective measurement of sub-optimal performance slapped me straight in the face. So I decided to start learning again, basically from scratch. This was an extremely slow and frustrating experience at first. I would regularly take 1 or 2 weeks to solve easy leetcode problems. However, I stuck with it and found help in the solutions posted in discussion boards associated with each problem.
 
-Preparation:
+==> Preparation:
+* I started using leetcode to study algorithms and data structures about 2 years ago in 2017 after I totally bombed a handful of technical phone screens. I consistently set aside 30-60 minutes each day to solve leetcode problems.
+* I also believe the following 3 online courses were extremely beneficial to help my mind "shift gears" to understand the fundamental basics of algorithms and data structures:
 
-I started using leetcode to study algorithms and data structures about 2 years ago in 2017 after I totally bombed a handful of technical phone screens. I consistently set aside 30-60 minutes each day to solve leetcode problems.
+  * Learning How to Learn: Powerful mental tools to help you master tough subjects
+  * Tim Roughgarden's Algorithms Specialization
+  * UCSD's Data Structures and Algorithms Specialization
 
-I also believe the following 3 online courses were extremely beneficial to help my mind "shift gears" to understand the fundamental basics of algorithms and data structures:
-
-Learning How to Learn: Powerful mental tools to help you master tough subjects
-Tim Roughgarden's Algorithms Specialization
-UCSD's Data Structures and Algorithms Specialization
-Contests:
-
-On average I currently solve 1 or 2 questions during each Leetcode contest. You can check out my Leetcode profile here: https://leetcode.com/claytonjwong/. I'm definitely not the sharpest tool in the shed, but I am willing and able to learn (...and keep learning ...and never give up!).
-
-Only once did I answer all 4 questions correctly during contest 127
+==> Contests:
+* On average I currently solve 1 or 2 questions during each Leetcode contest. You can check out my Leetcode profile here: https://leetcode.com/claytonjwong/. I'm definitely not the sharpest tool in the shed, but I am willing and able to learn (...and keep learning ...and never give up!).
+* Only once did I answer all 4 questions correctly during contest 127
 1005. Maximize Sum Of Array After K Negations
 1006. Clumsy Factorial
 1007. Minimum Domino Rotations For Equal Row
 1008. Construct Binary Search Tree from Preorder Traversal
-I solved 2 questions during the most recent virtual contest 162. And I solved the 3rd question about 5 minutes after this virtual contest ended:
+* I solved 2 questions during the most recent virtual contest 162. And I solved the 3rd question about 5 minutes after this virtual contest ended:
 1252. Cells with Odd Values in a Matrix
 1253. Reconstruct a 2-Row Binary Matrix
 1254. Number of Closed Islands
-I've only solved a handful of "hard" questions. Each contest's 4th question is usually the "Hard" question, and I usually do not get to the 4th question before the contest ends. I hope it's reassuring and helpful to know that having the ability to consistently solve a couple easy/medium questions is considered "good enough". I suggest focusing on the fundamentals, not the outliers. I estimate solving 45% easy, 45% medium, and 10% hard. Honestly 10% is probably a high estimate for solving "hard" questions, but the point I'm trying to make is the majority of my time is currently consumed by solving easy and medium questions.
+* I've only solved a handful of "hard" questions. Each contest's 4th question is usually the "Hard" question, and I usually do not get to the 4th question before the contest ends. I hope it's reassuring and helpful to know that having the ability to consistently solve a couple easy/medium questions is considered "good enough". I suggest focusing on the fundamentals, not the outliers. I estimate solving 45% easy, 45% medium, and 10% hard. Honestly 10% is probably a high estimate for solving "hard" questions, but the point I'm trying to make is the majority of my time is currently consumed by solving easy and medium questions.
 
-Phone Interviews: I had two technical phone interviews, each about 1 hour to answer 1 question. I believe I had a second technical phone interview because I barely "passed" the first technical phone interview.
+==> Phone Interviews: I had two technical phone interviews, each about 1 hour to answer 1 question. I believe I had a second technical phone interview because I barely "passed" the first technical phone interview.
 
-Round 1: The first phone interview question was solved by a greedy algorithm similiar to the following leetcode questions:
-
+* Round 1: The first phone interview question was solved by a greedy algorithm similiar to the following leetcode questions:
 455. Assign Cookies
 759. Employee Free Time
 860. Lemonade Change
 1103. Distribute Candies to People
-Round 2: The second phone interview question was solved by a linear scan and processing of input in a well-defined manner similiar to the following leetcode questions:
 
+* Round 2: The second phone interview question was solved by a linear scan and processing of input in a well-defined manner similiar to the following leetcode questions:
 739. Daily Temperatures
 1109. Corporate Flight Bookings
 1186. Maximum Subarray Sum with One Deletion
@@ -52,8 +48,7 @@ Round 2: The second phone interview question was solved by a linear scan and pro
 1218. Longest Arithmetic Subsequence of Given Difference
 Onsite Interviews: I had 4 technical interviews, 1 lunch break "interview", and 1 behavioral interview. The first 3 technical interview questions were similiar to the following 3 categories of Leetcode questions:
 
-Round 1: Parenthesis
-
+* Round 1: Parenthesis
 20. Valid Parentheses
 678. Valid Parenthesis String
 856. Score of Parentheses
@@ -61,15 +56,15 @@ Round 1: Parenthesis
 1021. Remove Outermost Parentheses
 1190. Reverse Substrings Between Each Pair of Parentheses
 1249. Minimum Remove to Make Valid Parentheses
-Round 2: Dynamic Programming
 
+* Round 2: Dynamic Programming
 746. Min Cost Climbing Stairs
 931. Minimum Falling Path Sum
 935. Knight Dialer
 1025. Divisor Game
 1155. Number of Dice Rolls With Target Sum
-Round 3: Graph (BFS/DFS)
 
+* Round 3: Graph (BFS/DFS)
 802. Find Eventual Safe States
 818. Race Car
 841. Keys and Rooms
@@ -77,37 +72,33 @@ Round 3: Graph (BFS/DFS)
 1042. Flower Planting With No Adjacent
 1129. Shortest Path with Alternating Colors
 1136. Parallel Courses
-Round 4: The fourth interview focused on System Design. The problem was the unlike most leetcode questions where there exists a clearly optimal method or strategy to solve the problem (ie. all above examples have a "category" or "flavor" or "type" of problem). This System Design problem really threw me for a loop because I have perfectionist tendencies. The most similiar leetcode problem I could find would be 1247. Minimum Swaps to Make Strings Equal. I looked at this problem for an hour trying to calculate a simple and concise "formula". However, there is no "formula" that I could find. Instead this problem required some unique reasoning. For me, this fourth interview question was by far the hardest interview question since it required similar unique reasoning.
 
-Round 5: The lunch "interview" was awesome. All food at Google is free, so I chowed down on some amazingly tasty fish and learned more about Google during a casual lunch in the downstairs cafeteria.
+* Round 4: The fourth interview focused on System Design. The problem was the unlike most leetcode questions where there exists a clearly optimal method or strategy to solve the problem (ie. all above examples have a "category" or "flavor" or "type" of problem). This System Design problem really threw me for a loop because I have perfectionist tendencies. The most similiar leetcode problem I could find would be 1247. Minimum Swaps to Make Strings Equal. I looked at this problem for an hour trying to calculate a simple and concise "formula". However, there is no "formula" that I could find. Instead this problem required some unique reasoning. For me, this fourth interview question was by far the hardest interview question since it required similar unique reasoning.
 
-Round 6: The behavioral interview was performed in usual, industry expected manner.
+* Round 5: The lunch "interview" was awesome. All food at Google is free, so I chowed down on some amazingly tasty fish and learned more about Google during a casual lunch in the downstairs cafeteria.
+
+* Round 6: The behavioral interview was performed in usual, industry expected manner.
 
 Summary and Advice:
 
-Don't try to "fake" it.
+* Don't try to "fake" it. Either you actually know algorithms and data structures XOR you know about algorithms and data structures. This small difference is a huge difference! It is impossible to "fake" algorithmic thinking and understanding. Objective measurement of your individual performance can be derived from weekly leetcode.com contests.
 
-Either you actually know algorithms and data structures XOR you know about algorithms and data structures. This small difference is a huge difference! It is impossible to "fake" algorithmic thinking and understanding. Objective measurement of your individual performance can be derived from weekly leetcode.com contests.
+* There are 3 stages to acquire a new skill:
 
-There are 3 stages to acquire a new skill:
+1. Cognitive: focused thought required to perform a task
+2. Associative: improved accuracy and efficiency, much less concentration required to perform a task
+3. Autonomous: perform task automatically with barely any concious effort at all with optimal accuracy and efficiency
 
-Cognitive: focused thought required to perform a task
-Associative: improved accuracy and efficiency, much less concentration required to perform a task
-Autonomous: perform task automatically with barely any concious effort at all with optimal accuracy and efficiency
-In order to "pass" the onsite interview, I strongly feel that one needs to be at the autonomous stage for understanding and coding all basic algorithms and data structures. Google provides candidates more than enough preparation material to understand what "basic" means (ie. Trees, Graphs (BFS/DFS/DFS+BT), DP (top-down/bottom-up), Stacks/Queues, Hash Tables, etc.). I estimate studying 10-20% of the preparation material provided by Google a few weeks prior to interviews; it's significant amount of information to "digest" in a short period of time.
+* In order to "pass" the onsite interview, I strongly feel that one needs to be at the autonomous stage for understanding and coding all basic algorithms and data structures. Google provides candidates more than enough preparation material to understand what "basic" means (ie. Trees, Graphs (BFS/DFS/DFS+BT), DP (top-down/bottom-up), Stacks/Queues, Hash Tables, etc.). I estimate studying 10-20% of the preparation material provided by Google a few weeks prior to interviews; it's significant amount of information to "digest" in a short period of time.
 
-A Rubik's cube can be used as a canonical physical example of autonomous algorithmic understanding. Check out this YouTube video of 2 solutions. An astute observer will notice that I definitely "messed up" a handful of times while solving both the Beginner's Method as well as the Fridrich Method. However, I do not beat myself up about it. We are all human beings, and none of us is perfect. So don't be too hard on yourself, especially when learning something new. Each time I made a mistake, I simply thought, "oops", and resumed the next steps towards a solution the best I could. Always focus on the process towards a solution, not the bumps in the road on your journey there. I'm currently at the autonomous stage for the Beginner's Method, and I'm somewhere between the cognitive/associative stages for the Fridrich Method F2L. I hope that helps provide a better "feel" for what each of those 3 stages mean.
+* A Rubik's cube can be used as a canonical physical example of autonomous algorithmic understanding. Check out this YouTube video of 2 solutions. An astute observer will notice that I definitely "messed up" a handful of times while solving both the Beginner's Method as well as the Fridrich Method. However, I do not beat myself up about it. We are all human beings, and none of us is perfect. So don't be too hard on yourself, especially when learning something new. Each time I made a mistake, I simply thought, "oops", and resumed the next steps towards a solution the best I could. Always focus on the process towards a solution, not the bumps in the road on your journey there. I'm currently at the autonomous stage for the Beginner's Method, and I'm somewhere between the cognitive/associative stages for the Fridrich Method F2L. I hope that helps provide a better "feel" for what each of those 3 stages mean. Note: A few months after I joined leetcode in 2017 and studied Stefan Pochmann's solutions, I stumbled upon the Old Pochmann Algorithm. And I told myself, "if this fellow can solve a Rubik's cube blindfolded, I can at least learn how to solve it with my eyes open!" (that's easier said than done, if anyone's interested in learning, check this out: https://claytonjwong.github.io/rubiks-cube/).
 
+* Know when to use which data structure and algorithm: Most questions are open-ended and require additional information gathering. Clearly and concisely communicate your thought process while solving the problem. My perfectionist tendencies are to create an elegant solution on the first try. However, all questions asked onsite were non-trivial for which there exists no immediate "perfect" solution. Start off with a "good enough" working solution, then optimize it. There's no sense optimizing an incorrect solution! Start off with basic fundamentals, and incrementally refactor "as needed".
 
+* Be a humble, life-long learner. Never give up! Never surrender!
 
-Note: A few months after I joined leetcode in 2017 and studied Stefan Pochmann's solutions, I stumbled upon the Old Pochmann Algorithm. And I told myself, "if this fellow can solve a Rubik's cube blindfolded, I can at least learn how to solve it with my eyes open!" (that's easier said than done, if anyone's interested in learning, check this out: https://claytonjwong.github.io/rubiks-cube/).
-Know when to use which data structure and algorithm.
-
-Most questions are open-ended and require additional information gathering. Clearly and concisely communicate your thought process while solving the problem. My perfectionist tendencies are to create an elegant solution on the first try. However, all questions asked onsite were non-trivial for which there exists no immediate "perfect" solution. Start off with a "good enough" working solution, then optimize it. There's no sense optimizing an incorrect solution! Start off with basic fundamentals, and incrementally refactor "as needed".
-Be a humble, life-long learner. Never give up! Never surrender!
-
-There's a lot of information to acquire for simply understanding the fundamentals of algorithms. For example, the CLRS "Intro to Algorithms" book is 1292 pages long; that's a loquacious "introduction"! It takes time to fundamentally understand these algorithms by sharpening the mind's eye. However, the brain can slowly restructure itself to meet cognitive demands. Just learn a little bit each day and stick with it. The compounding interest (ie. pay day) will come. That's the law of the harvest, you reap what you sow.
-Final Thoughts: I really hope this is a helpful and motivational post for everyone, and especially for "older" software engineers like myself. Have fun and keep learning! Continually re-invent yourself as a modern software engineer.
+* There's a lot of information to acquire for simply understanding the fundamentals of algorithms. For example, the CLRS "Intro to Algorithms" book is 1292 pages long; that's a loquacious "introduction"! It takes time to fundamentally understand these algorithms by sharpening the mind's eye. However, the brain can slowly restructure itself to meet cognitive demands. Just learn a little bit each day and stick with it. The compounding interest (ie. pay day) will come. That's the law of the harvest, you reap what you sow.
+* Final Thoughts: I really hope this is a helpful and motivational post for everyone, and especially for "older" software engineers like myself. Have fun and keep learning! Continually re-invent yourself as a modern software engineer.
 
 
 ## How to get into FAANG
