@@ -46,7 +46,9 @@ Hi, my name is Clayton. First off I'd like to give a big thanks to the folks at 
 1186. Maximum Subarray Sum with One Deletion
 1191. K-Concatenation Maximum Sum
 1218. Longest Arithmetic Subsequence of Given Difference
-Onsite Interviews: I had 4 technical interviews, 1 lunch break "interview", and 1 behavioral interview. The first 3 technical interview questions were similiar to the following 3 categories of Leetcode questions:
+
+
+==> Onsite Interviews: I had 4 technical interviews, 1 lunch break "interview", and 1 behavioral interview. The first 3 technical interview questions were similiar to the following 3 categories of Leetcode questions:
 
 * Round 1: Parenthesis
 20. Valid Parentheses
