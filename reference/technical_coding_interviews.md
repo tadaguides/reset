@@ -13,6 +13,12 @@ https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/101
 ## Comprehensive Data Structure and Algorithm Study Guide
 https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
 
+
+## Coding Interview Strategy: 
+* https://www.youtube.com/watch?v=GbyXxUDVeAo
+* Top LC Questions: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+
+
 ## There are no shortcuts
 https://leetcode.com/discuss/interview-experience/424540/Google-or-L5-or-MTV-or-Oct-2019-Offer
 * Status: Software Engineer with 15 years of Professional Experience
