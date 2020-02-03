@@ -1,4 +1,17 @@
-ON: Coding Interviews
+ON: Technical Coding Interviews
+
+## On: Acing the Coding Interview, by Nick Ciubotariu (ex. Microsoft/Amazon, current CTO @ Venmo)
+https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc
+
+## Getting that job at Google
+http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
+
+## Getting that job at Facebook
+https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920
+
+
+## Comprehensive Data Structure and Algorithm Study Guide
+https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
 
 ## There are no shortcuts
 https://leetcode.com/discuss/interview-experience/424540/Google-or-L5-or-MTV-or-Oct-2019-Offer
