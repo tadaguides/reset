@@ -1,5 +1,8 @@
 ON: Coding Interview Strategies
 
+## Best habits for coding interview prep
+https://www.teamblind.com/post/Habits-when-preparing-for-interview-Fa1i7Mz6
+
 ## On: Acing the Coding Interview, by Nick Ciubotariu (ex. Microsoft/Amazon, current CTO @ Venmo)
 https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc
 
