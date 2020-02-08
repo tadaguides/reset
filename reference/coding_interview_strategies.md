@@ -1,4 +1,4 @@
-ON: Technical Coding Interviews
+ON: Coding Interview Strategies
 
 ## On: Acing the Coding Interview, by Nick Ciubotariu (ex. Microsoft/Amazon, current CTO @ Venmo)
 https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc
