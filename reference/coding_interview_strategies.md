@@ -28,9 +28,66 @@ A: I failed few interviews, some at phone screen level. This is expected, dont o
 
 ## On: Acing the Coding Interview, by Nick Ciubotariu (ex. Microsoft/Amazon, current CTO @ Venmo)
 https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc
+* STAR structure for interview answers (situation/task/action/result)
+* Interview gameplan
+  * KP: Practice with pen/paper or whiteboard
+  1. write down interview question in your own words
+  2. break down problem into smaller parts => create approach to solve problem
+  3. write pseudo-code => write real code
+  4. walk through code: look for bugs
+  5. test your code: pay attention to null checks/corner cases
+  * KP: Take time to really understand the problem before moving on.
+  * Doing this, you will LEARN & INTERNALIZE the subject matter.
+  * KP: Run solution in IDE ONLY when you have given it your best shot and exhausted the solution on paper.
+  * Write the question on paper => you can review it later.
+* Key Topics:
+  1. Trees (esp. Binary Search Trees)
+  2. Big O Notation (time/space complexity)
+  3. HashTables
+  4. OO Design/Systems Design
+  5. Algorithms: BFS/DFS, Binary Search, Merge Sort
+  6. Arrays
+  7. Recursion
+  8. Linked Lists
+  9. Stacks/Queues
+  10. Bit Manipulation
+* Interview Prep Philosophy: "Eat the elephant one bite at a time"
+  * Why? CS is dense and hard to digest
+  * Solution:
+    * Pick an area, increase difficulty as you go, try solving 2-3 problems per day
+    * Dedicate one day to review the week's questions/study topics (CRUCIAL FOR KNOWLEDGE RETENTION)
+* Misc Tips:
+  * Treat interviews like meeting new people with some fun challenges thrown in.
+  * If you have a bad interview, shake it off immediately #NextPlay
+* Leading up to interview day
+  * One week before:
+    * review study material
+    * research company/position
+    * polish soft skills/resume highlights
+  * The night before:
+    * KP/TOP RULE: GET GREAT SLEEP!!!!!
+  * Day of interview:
+    * Be on time!
+    * Relax and listen closely!
+    * When given a question, ask clarifying question (do not start coding right away!)
+    * KP: Always solve the problem algorithmically first
+      * Talk through approach with interviewer
+      * Draw out small sample dataset
+      * Write pseudocode in steps, explaining each step
+      * Write real code, talk through code
+      * Test code against dataset you created ("run code")
+      * KP: Write test cases and run tests
+      * KP: Write clean and compilable code
+      * KP: Relax and show confidence!!!
 
 ## Getting that job at Google
 http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
+
+
+
+
+
+
 
 ## Getting that job at Facebook
 https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920
