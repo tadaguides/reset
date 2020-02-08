@@ -17,7 +17,29 @@ https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-struct
 ## Coding Interview Strategy: 
 * https://www.youtube.com/watch?v=GbyXxUDVeAo
 * Top LC Questions: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+* https://www.teamblind.com/post/My-Leetcode-strategy-t6EU8L45
+=> Fundamentals: I have a pretty good knowledge of fundamentals. If you don't, I 100% recommend you go through an algorithms book. Yes, I know, it's no fun if you haven't done a class on it before, but I believe is the best way to at least get a grasp of everything. I dislike interview preparation books (CTCI is just bad in my opinion), but I guess they're better than nothing. I suggest CLRS as a first algorithms book. You don't need to understand the math behind it, but at least be comfortable in how to design an algorithm.
 
+Leetcode: I first did the "Top Interview Questions" collection (available for free), I did the medium collection fully and some of the problems from the hard collection. It's good because it exposes you to a lot of different areas (you need to be good at ALL of those).
+
+Then I bought Leetcode Premium. This unlocks company tags (useless for some companies like Google, more useful for Microsoft and others). I spent 90% of my time doing the "mock interviews". Trust me, that was the thing that really made me excel in my interviews. The mock interviews give you a strict time limit, and in the end, they give you a percentage rating against all the other people that did the same mock interview set. This is much, much more useful than looking at the percentile for individual problems since many people just copy and paste the code from the top most-voted answer and get 100% percentile, making the average score go up. In a mock interview you don't have access to the discussion forum (of course, you can open another tab and cheat, but I feel like most people won't do that).
+
+Be really comfortable with easy questions. This means <5 minutes each, at most. Binary search, sorting, simple data structure operations must be automatic. Medium questions are the most important ones to do in order to prepare for interviews. Don't spend too much time on hard questions: if you are comfortable with mediums, then usually hard questions are just a intricate mix of medium questions. If you can't get to a solution after 30 mins (or 1 hour if you feel like you're close), just look up the solution, and then go back and solve the question in your own code. Don't copy and paste!
+
+Once you're comfortable solving questions, focus on speed. Mock interviews are good for that, because they give you a time limit and put you under pressure. My target times were:
+Easy: < 5 minutes.
+Medium: < 15 - 20 minutes.
+Hard: < 30 - 40 minutes.
+
+I achieved the desired target time for easy and medium questions, but hard questions can be really frustrating and never achieved a consistent < 40 minutes. Some hard questions I was never able to solve, and that's fine. Focus on medium.
+
+My ratio was 20/70/10 easy/medium/hard. I had one month to prepare, I did around 200 leetcode I would say (unfortunately problems solved in mock interviews are not counted towards the total solved, so I'll never know how many I've actually solved).
+
+Then, identify one area where you suck. In my case, dynamic programming. Read up tutorials / book chapters / explanations on that area, and understand the solution to common problems really well (like rod cutting for dynamic programming). Then go to the relative section on Leetcode and start doing them until you feel good. After doing like 15 dynamic programming questions I finally felt like I could get the hang of it.
+
+In terms of tutorials: do not use random online resources! I can't stress this enough. There's so much crap online that you don't want to get inspiration from! GeeksForGeeks is a terrible resource, for example. Answers are often wrong, with bad English, terrible explanations, and the site has a horrible interface. Prefer blog posts from reputable sources (like actual interviewers), or books. Just search your problem on Google and choose wisely (look at multiple explanations!).
+
+TL;DR: Leetcode mock interviews saved my life. Use real resources, not random online blogs. Focus on correctness, and then speed.
 
 ## There are no shortcuts
 https://leetcode.com/discuss/interview-experience/424540/Google-or-L5-or-MTV-or-Oct-2019-Offer
