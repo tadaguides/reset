@@ -18,7 +18,8 @@ https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-struct
 * https://www.youtube.com/watch?v=GbyXxUDVeAo
 * Top LC Questions: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 * https://www.teamblind.com/post/My-Leetcode-strategy-t6EU8L45
-=> Fundamentals: I have a pretty good knowledge of fundamentals. If you don't, I 100% recommend you go through an algorithms book. Yes, I know, it's no fun if you haven't done a class on it before, but I believe is the best way to at least get a grasp of everything. I dislike interview preparation books (CTCI is just bad in my opinion), but I guess they're better than nothing. I suggest CLRS as a first algorithms book. You don't need to understand the math behind it, but at least be comfortable in how to design an algorithm.
+
+Fundamentals: I have a pretty good knowledge of fundamentals. If you don't, I 100% recommend you go through an algorithms book. Yes, I know, it's no fun if you haven't done a class on it before, but I believe is the best way to at least get a grasp of everything. I dislike interview preparation books (CTCI is just bad in my opinion), but I guess they're better than nothing. I suggest CLRS as a first algorithms book. You don't need to understand the math behind it, but at least be comfortable in how to design an algorithm.
 
 Leetcode: I first did the "Top Interview Questions" collection (available for free), I did the medium collection fully and some of the problems from the hard collection. It's good because it exposes you to a lot of different areas (you need to be good at ALL of those).
 
