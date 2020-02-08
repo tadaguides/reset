@@ -6,7 +6,7 @@ https://www.teamblind.com/post/Habits-when-preparing-for-interview-Fa1i7Mz6
 * "I was always afraid of failing interviews so I'd put off any company I really wanted to join until I was "ready". Guess what? You're never ready. I recently started interviewing aggressively a month ago and have 2 offers today. Throw enough stones at a wall, and something will stick."
 * "Those people who cleared Google by practicing less than 10 problems just lucked out. My advice is fail fast. Practise for couple of weeks, schedule interview with non FANG and see how you perform. Don't spend way too much time preparing. Trust me, even if you prepare for 2 years, there is still no guarantee that you will do well on the interview day."
 * "Interview until it feels like a practiced speech."
-"Those who cleared it in under 10 question have always been practising on other platforms or had a competitive programming past. My only habit before I cleared Google L3 was to do leetcode daily. Barring one day I did leetcode daily since 3rd Sep to end of November. I had done ~400 questions when I gave my onsite and I got the offer."
+* "Those who cleared it in under 10 question have always been practising on other platforms or had a competitive programming past. My only habit before I cleared Google L3 was to do leetcode daily. Barring one day I did leetcode daily since 3rd Sep to end of November. I had done ~400 questions when I gave my onsite and I got the offer."
 * "I’ll share my personal from the last job change (Amazon):
 1. Sleep routine - did change 6 hours a night unfortunately with kids plus 1 8-9 hours night a week
 2. Exercise whenever I get to
