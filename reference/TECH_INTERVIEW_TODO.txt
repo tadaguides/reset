@@ -3,8 +3,8 @@ TECH_INTERVIEW_TODO
 *************************************************
 [TOP PRIORITY]
 
-=> Finish LC Google Course
 => Finish Top Interview Questions (Easy)
+=> Finish LC Google Course
 => Finish Top Interview Questions (Medium)
 => Finish Top Interview Questions (Hard)
 => Finish LC Amazon Course
