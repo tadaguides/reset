@@ -100,7 +100,7 @@ http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
   * This helps with problem identification: recognize certain problems are best solved with certain data structures & algorithms
   * Suggested: Algorithm Design Manual (Skiena), Intro to Algorithms (CLRS)
 * Warm-up #2: Do mock interviews!
-# Tech Prep Tips:
+### Tech Prep Tips:
 * Algorithm Complexity: you need to know Big-O. It's a must. If you struggle with basic big-O complexity analysis, then you are almost guaranteed not to get hired. It's, like, one chapter in the beginning of one theory of computation book, so just go read it. You can do it.
 * Sorting: know how to sort. Don't do bubble-sort. You should know the details of at least one n*log(n) sorting algorithm, preferably two (say, quicksort and merge sort). Merge sort can be highly useful in situations where quicksort is impractical.
 * Hashtables: hashtables are arguably the single most important data structure known to mankind. You absolutely have to know how they work. Again, it's like one chapter in one data structures book, so just go read about them. You should be able to implement one using only arrays in your favorite language, in about the space of one interview.
