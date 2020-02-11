@@ -224,7 +224,7 @@ I already have a competing offer in hand, so the process from onsites for me is 
 
 
 https://leetcode.com/discuss/interview-experience/505412/google-mtv-l4-offer
-Just wanted to share my interview experience:
+* Just wanted to share my interview experience:
 
 I applied to google in December and had my onsite in the same month, because of the NDA I can't disclose specific problems.
 
