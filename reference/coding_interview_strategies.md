@@ -184,6 +184,45 @@ In terms of tutorials: do not use random online resources! I can't stress this e
 TL;DR: Leetcode mock interviews saved my life. Use real resources, not random online blogs. Focus on correctness, and then speed.
 
 ## There are no shortcuts
+https://leetcode.com/discuss/interview-experience/505108/nda-google-l4l5-japan-feb-2020-pending-offer
+
+* Status: BS, 5+ Yoe in Tier-1 Company (In Japan), Top University in Japan
+* Position: L4/L5
+* Location: Japan
+* Date: Feb 2020
+
+I just want to start by saying big thanks to Leetcode and the community here. I felt it is a much more fair game now, since everyone can access the same amount of resources.
+Background
+* I was contacted every year by Google recruiter for several years, but I loved my job and refused every single time. Until late last year, I think I needed a change and proactively contact the recruiter who approached me before. I told her I am ready to apply but need some time to prepare. She told me to prepare first and then let her know 1 month before I was ready for phone interview.
+Preparation
+* I started my preparation around October. I used Leetcode for practicing, Geeks4Geeks for refreshing, CLRS+Algorithms (Sedgewick) for references, educative.io for System Design. I really love math and algorithms, so it was really enjoyable.
+Technical Phone Screen
+* After 1,2 months (December), I got my phone interview scheduled on January. I still have another month to prepare, but I feel pretty confident at this point.
+The interviewer went straight to ask a programming question. One was related to tree traversal (similar to LC Medium), which I solved in 10 minutes (concise+fast). He then moved on to ask an LC Hard level problem. I have never seen it before, but I figure out I need to use Line Sweep, so I coded and made it work. I missed on edge case, but I noticed it myself and was able to partilly resolve that.
+8AM the next morning, I received an email from my recruiter to schedule a phone call from 9AM, and the wording really sounded like bad news. I searched on Blind "Google phone interview call the next day" or something like that. More than half said it was bad news, and I was really confused, since I thought I did OK. Thankfully, the recruiter just tried to talk to me to make sure my experience matched the feedback, which was positive.
+Onsites
+* 3 coding interviews + 1 System Design + 1 Googliness
+* 1st, I was asked to code in Laptop so the interviewer didn't need to note my code :). I didn't know I would have other choice other than the whiteboard, but I was happy to accept. He started with a very basic question, then follow up, then another follow up (anyone knows graph would be able to crush these questions easily). He then asked me another question, kind of strange question, I think I was able to analyze and made a working solution (probably not optimal), but I think he was happy with it since it was only 10 minutes left.
+* 2nd interview was Googliness, so you know, a bunch of behaviors.
+* 3rd interview is another coding, he started by asking an LC-Easy question, I made it work in 10 minutes including testing time, so he moved on to ask an LC-Medium question. I explained the logic, how I would do it, he clearly knew that I was in the right track, so he told me no need to code, and keep asking follow up questions (generic, thread safe, etc).
+* 4th interview, so far, the only one I felt challenged. It was a very interesting question, which I never seen before (not similar to any LC I know). After analyzing it, I was able to come up with the solution by using Graph (It's Google, prepare for GRAPH) representation and cycle detection. I barely finished coding before time, and we tested it together, and the interviewer told me it was correct (so nice of him, some interviewers won't tell you if you're wrong or correct).
+* 5th interview was System Design, I was worried about this as I don't really know what to expect. However, I was so lucky, he asked me a question that I knew so well that after 15 minutes asking, he litterlly told me that he would give up asking this question (since he realized that I knew too much) and switch to another one. The next question, is again, something I built before, so I was able to come up with a workable design and answer all follow up questions.
+Results
+* I was called by my recruiter 2 hours after my interview and she told me the initial feedback was very positive, with zero red flag. I am still awaiting hiring commitee decision now. As for level, the recruiter told me it will be either L4 or L5. Finger crossed.
+
+Others
+
+* Take a long vacation! I used 35 days off (with good excuse, and not continuous) + Winter vacation.
+* Buy a big WHITEBOARD at home!!! That's the first thing I did in October.
+* I did a crazy amount of LC, 613 Mediums, 213 Hards. I would say 70% medium and 50% of hard I could do by myself, the rest I need to read the solution or hints or discussion. I know lots of people do a lot less, but I just wanted to make sure I prepared the best that I can. I learned a lot, probably too much. Some of my favorite topics are: Segmented Tree, Line Sweep, Cycle Detection, Sliding Window.
+* Try mock interview. It helped me prepare mentally for actual interview. I felt the time constraint, always push myself. My overall score in October was 5.5, and now, it is 9.4. 2 weeks before the onsite at Google, I did 10 Google onsites, average time to complete is about 40 minutes. The high score is kind of cheating, since at the time I started to do mock again, I already finished "a lot" of hard + medium problems. Still, I felt I made some progress.
+* Try to code fast and concise. It will make it a lot easier to impress in an interview, since the faster you code, the more time you can think.
+* Try to really really understand a solution. Try to classify what techniques should be used in what problems. I think this is the skill that will make you thrive in an interview. At the end, you will most likely meet a problem you never met before.
+* Always read the solution even if you can do the problem yourself. You can find something new!
+I already have a competing offer in hand, so the process from onsites for me is very fast. I'd recommend everyone has a competing offer before doing interview with FAANG, even it actually cannot compete financially, it may help to speed up the process.
+* Big thanks again and good luck to everyone!
+
+
 https://leetcode.com/discuss/interview-experience/505412/google-mtv-l4-offer
 Just wanted to share my interview experience:
 
