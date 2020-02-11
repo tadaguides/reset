@@ -184,6 +184,23 @@ In terms of tutorials: do not use random online resources! I can't stress this e
 TL;DR: Leetcode mock interviews saved my life. Use real resources, not random online blogs. Focus on correctness, and then speed.
 
 ## There are no shortcuts
+https://leetcode.com/discuss/interview-experience/505412/google-mtv-l4-offer
+Just wanted to share my interview experience:
+
+I applied to google in December and had my onsite in the same month, because of the NDA I can't disclose specific problems.
+
+The entire preparation process for me took 7+ months, during this time I experienced rejections from Pinterest, Amazon and Dropbox but I used these rejections as an inspiration to keep pushing myself to improve, I also had offers from other companies which I declined since.
+
+My interview strategy was the following:
+
+* Completely read and go through each problem in "Cracking the coding interview"
+* Study every day for 4+ hours, every study session was focusing on a algorithmic subject or so
+* Being able to solve problems under a 20-25 minute mark for every major algorithmic category labeled under leetcode, leaving DP programming as a last subject of study. Every time I start working on a subject I would start with the easy problems and if I couldn't solve it I would look at the solution, I think timing how long it takes you to produce a solution is important since during interviews (in many companies) you might be asked to talk about a project and then jump into problem solving, shorting the 45 minute mark you typically have
+* Being able to communicate efficiently my ideas during the onsite
+* During the onsite I would even recommend solving the problem or at least mentioning a solution you thought of even if it's not optimal
+Took me a lot of rejections but I finally did it and I would say leetcode is definitely a tool that can help you.
+
+
 https://leetcode.com/discuss/interview-experience/424540/Google-or-L5-or-MTV-or-Oct-2019-Offer
 * Status: Software Engineer with 15 years of Professional Experience
 * Position: Google L5
