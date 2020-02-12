@@ -3,18 +3,7 @@ TECH_INTERVIEW_TODO
 *************************************************
 [TOP PRIORITY]
 
-=> Finish Top Interview Questions (Easy)
-- array
-- strings
-- linked list
-- trees
-- sorting & searching
-- dynamic programming
-- design
-- math
-- misc
-
-
+=> Finish LC Top 75 Question List
 => Finish LC Google Course
 => Finish Top Interview Questions (Medium)
 => Finish Top Interview Questions (Hard)
