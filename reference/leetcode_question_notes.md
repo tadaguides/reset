@@ -1,5 +1,8 @@
 # Leetcode Question Notes
 
+## Leetcode solutions
+https://github.com/wuduhren/leetcode-python/blob/master/README.md
+
 ## Arrays
 ### Easy
 * Remove Duplicates from Sorted Array: https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
