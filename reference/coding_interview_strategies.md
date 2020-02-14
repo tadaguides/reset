@@ -412,3 +412,58 @@ The timeline for an interviewer to submit this feedback is less than 2 business 
 * When a candidate comes for an onsite interview, a candidate will usually be scheduled for 4 interviews plus a "lunch interview". Usually two interviews, then lunch, then the last two. The only major differences between onsite and phone interviews are that onsites happen on a whiteboard, and interviewers more often use the full 45 minutes to ask the interview questions, since candidates have time to ask their lunch interviewer questions. Onsites are also somewhat more likely to have 2 (easier) questions, instead of just 1, since there is more time. The lunch interviewer does not rate the candidate, and is just there to make small talk and answer questions (though I think this might be different for different roles or something? In any case, it wouldn't be kept a secret if the candidate was being evaluated during lunch).
 * The onsite interviewers submit the same style of feedback as phone interviewers. After they have all submitted feedback, the recruiter will decide whether or not to refer the candidate to a hiring committee. A candidate with very little or no positive feedback usually is outright rejected, but people with mixed feedback or better usually go to the hiring committee. I've never been on a hiring committee, so I don't know a lot about what happens at this point, but the high-level summary is that the committee will review all of the phone and onsite interviewers' feedback and use that to issue a hire/no hire decision. Hiring committees might also recommend a hire, but at a lower level than the candidate was evaluated for. Candidates often don't hear back about the hiring committee decision for at least 2 weeks.
 * If the committee recommends a hire, then at that point the recruiter will schedule "fit calls" with managers from a few teams, to see if there's mutual interest between the candidate and that manager. (Sometimes this step may happen before the onsite interviews, instead. I don't know what determines this). Fit calls are pretty unstructured, and not really fail-able, in the sense that even if none of the teams you talk to are interested, the recruiter will likely just schedule you with more teams (this may be less true if the fit calls happen before onsite interviews). That said, getting an offer is dependent on matching with a team, so candidates should try to ask good questions and be personable. After matching with a team, a candidate will get an offer. I don't know how the offer amount is determined.
+
+## Amazon Coding Experience (SDE2)
+https://leetcode.com/discuss/interview-experience/507025/amazon-sde-2-nyc-feb-2020-offer
+
+Status: MS Electrical Eng. Top 3 School (Canada)
+Experience: a bit less than 2 years (in 5G Research mostly)
+Location: NYC
+Date: Feb 7 2020
+
+Date Applied: Nov 1st 2019
+Date of first contact with recruiter: Nov 17th 2019
+
+I spoke with the recruiter, told him a bit about my background. He told me about his team a bit (SCOT - Forecasting). The conversation went pretty well. At the end of the conversation he told me he would send a list of things I needed to review. It included topics which I should focus on: DS & Algo, OOP, System Design, Leadership Principles. It also included resources like leetcode, careercup etc to prepare for the interview. After getting the email, I replied that I would like to take the assessment on the 4th of December and he agreed.
+
+Prep for OA: I already had a pretty solid foundation in DS & Algo & OOP (comp sci minor in undergrad). I started reviewing my class notes and practicing on leetcode. I didn't leetcode prior to that (I only heard of leetcode last May - (yeah I lived under a rock) ). I bought the leetcode premium. My goal was to finish the problems for Amazon. At the beginning it was taking me around 30 mins - 1 hour to solve easy problems. Medium ones 45 mins - 1 hr 30 mins. Hard 3 hr - 4 hrs. I managed to solve most problems under Amazon and the list for Amazon online assessment (https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-Questions) before the 4th of December (I studied for about 10 - 12 hours).
+
+Prep Outcome: Learnt some new DS & Algo (Trie, Segmented trees, Red black trees, implemented AVL trees). However, I still was not confident in myself that if I was presented with a new problem I'd be able to solve it within the given time (45 mins).
+
+Online Assessment: Dec 4th 2019
+
+Q1: A variation of top n buzzwords (passed 20/21 test cases)
+Q2: A variation of zombie in a matrix (passed 19/20 test cases)
+I was told that I didn't pass the online assessment. I emailed my recruiter asking him if he could provide me with any feedback and he told me unfortunately he couldn't. But he put my name down in his calender to contact me again in 3-4 months down the line. I told him look if I can't get any feedback then I am not sure on what to improve on as my test cases (except for an edge case) were passing. And if I can't improve then the next time might be the same. He told me he really won't be able to tell me anything more as he the reviewer didn't provide him with any feedback. Long story short, I moved on but after a week later he contacted me again. He told me that after speaking with me, he asked a hiring manager in his team to go over my OA. The hiring manager reviewed it and told me that I am good to go to the next round. He told me that the other reviewer made a mistake somewhere. But anyways since the holidays were approaching I scheduled my phone interview on the 6th of January.
+
+So, I practiced a lot on leetcode during the break. I wanted to really nail my basics and be confident and solve a given problem within the given time. I did all the cards on leetcode (recursion, recusrion II, stacks, BST, Binary Trees, etc..). I also brushed up on my OOP. I was also preparing for my Google phone interview as well. By the time 6th of January came I solved near to 200 problems or so ( a combination of medium and hards mostly leaning more on the medium side). I was pretty confident in myself by that time. I could solve an easy problem within 5 - 10 mins. medium would take me around 10 - 20 mins. Hard would be around 30 - 1 hr. I also spent a couple of days studying the leadership principles and preparing some examples.
+
+Phone Interview:
+
+started off with my background, what I want to do, what I have been working on. lp questions (about 15 mins).
+the coding question (can't disclose it) but it was related to quick sort and it's variations. I discussed two possible solutions. Their tradeoffs, time & space complexities. (best case, worst case and on avg.) (about 15 mins)
+the interviewer then switched to more lp questions (5 - 7 mins)
+I asked him a couple of questions.
+Phone Interview Outcome: My recruiter told me that my interviewer really liked my performance and that I would be moving on to the on-site the very same day. The on- site was scheduled on the 7th of February.
+
+Onsite Prep:
+
+DS & Algo & OOP: I started practicing more on leetcode, redid most of the problems I did before (now for every problem that had multiple solutions, I made sure to go over them and understand each of them). I also did some new problems. Total count ~ 230 (mostly medium and hard)
+
+System design prep: Grokking the system design interview + Donne Martin github. Read some papers, watched videos on youtube (microservices).
+
+Leadership Principles - prepared around 4 - 5 examples that I would use for some common questions.
+
+Onsite Interview: (won't be able to disclose the questions asked)
+
+Round 1 - Software Development Manager in SCOT (System Design): Started off with Leadership principle questions (20 mins). Then moved on to the system design question. Spoke about concepts like CDN, Sharding, SQL vs NoSQL, microservices. Didn't follow the direct approach outlined in either grokking the system design or Donne Martin github. But rather improvised. Didn't do any calculation of capacity constraints whatsoever. But spoke about the desing concepts with possible solutions and their tradeoffs and how it could be implemented. I remember my interviewer saying perfect at some point. Overall I thought it went pretty well.
+
+Round 2 - SDE (<3 years of experience): Logical and Maintainable round (OOP): LP questions for the first 20 mins. Then had to design a file system. Seperated the components into different classes and how they would interact. Solved the problem and the follow ups. She asked all the questions she wanted to ask. There were about 10 minutes left. So, I asked her a few questions. We still had a bit of time left after the Q&A.
+
+Round 3 - SDE with 3 years of experience and SDE with 5+ years of experience (Problem Solving): A leetcode hard problem (histograms, rectangles). I gave the brute force approach then a bit more optimized one. Was asked to code the optimized one. Solved it within 20 mins. Since there was still time left he wanted me to further optimize it. Took me about 5 mins to figure it out, my interviewer also came up to the board to help me with it. He gave a small hint after which it seemed pretty easy. Coded that as well. Had time to spare so I asked them a few questions. (I found out later that this round was the bar raiser).
+
+Round 4 - SDE with about 2 years of experience and SDE with around 5 years of experience: (DS & Algo): I looked it up on leetcode, it has variations of medium to hard (think Trie, prefixes). Solved it with time to spare and answered their follow up questions.
+
+Result: Just heard back yesterday from my recruiter that they were going to extend me an offer for SDE - I position (with expectations to be quickly promoted). Even though I was originally interviewing for the SCOT forecasting team but the two interviewers from my bar raiser are also considering to extend an offer for their respective teams (Ad analytics & AWS - ML).
+
+Advice to fellow leetcoders: Part of interviewing is luck as much as I hate to say it but that's the sad reality. Just try your best. Understand a problem and try to see how you can make it better (instead of solving new problems after you have reached a decent number that is). The solution or the discussions are a great way to do that.
