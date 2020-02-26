@@ -3,7 +3,20 @@ TECH_INTERVIEW_TODO
 *************************************************
 [TOP PRIORITY]
 
-=> Finish LC Top 75 Question List
+=> Finish LC Top 75 Question List (reference/top_leetcode_questions.md)
+    - study all solutions and note patterns for each category
+    - solve all problems from scratch with notes
+=> Implement major data structures/most common operations in Python
+    - Graph
+    - Linked List
+    - Tree
+    - Binary Search Tree
+    - Trie
+=> Craft mastery guide for major interview topics (#tadaguide) to reinforce problem-solving patterns
+    - Dynamic Programming
+    - Recursion
+    - Breadth-First Search
+    - Depth-First Search
 => Finish LC Google Course
 => Finish Top Interview Questions (Medium)
 => Finish Top Interview Questions (Hard)
@@ -14,9 +27,20 @@ TECH_INTERVIEW_TODO
 
 *************************************************
 [QUICK HITS]
+=> Print out Big O complexity cheat sheet for reference
+
 
 *************************************************
-[DONE]
-
+[REMINDERS]
+"To me, the Mamba Mentality is a really simple one. The confidence comes from preparation. 
+So, when the game's on the line, I'm not asking myself to do something I haven't done thousands of times before. 
+Right? 
+So, when I prepare, 
+I know what I'm capable of doing, 
+I know what I'm comfortable doing, and 
+I know what I'm not comfortable doing. 
+So in those moments, if it looks if I'm ice cold or not nervous, it's because I've done it thousands of times before. 
+So, what's one more time?" 
+- Kobe Bryant, Mamba Mentality Interview
 
 

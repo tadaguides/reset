@@ -1,5 +1,36 @@
 # ON: Coding Interview Strategies
 
+## Maximizing Your Practice
+https://leetcode.com/explore/interview/card/coding-interview-strategy/208/preparation/1354/
+
+* When you start practicing for coding interviews, there’s a lot to cover. You’ll naturally wanna brush up on technical questions. But how you practice those questions will make a big difference in how well you’re prepared.
+* Here’re a few tips to make sure you get the most out of your practice sessions.
+
+1. Track your weak spots
+  * One of the hardest parts of practicing is knowing what to practice. Tracking what you struggle with helps answer that question.
+  * So grab a fresh notebook. After each question, look back and ask yourself, “What did I get wrong about this problem at first?” Take the time to write down one or two things you got stuck on, and what helped you figure them out. Compare these notes to our tips for getting unstuck.
+  * After each full practice session, read through your entire running list. Read it at the beginning of each practice session too. This’ll add a nice layer of rigor to your practice, so you’re really internalizing the lessons you’re learning.
+
+2. Use an actual whiteboard
+  * Coding on a whiteboard is awkward at first. You have to write out every single character, and you can’t easily insert or delete blocks of code.
+  * Use your practice sessions to iron out that awkwardness. Run a few problems on a piece of paper or, if you can, a real whiteboard. A few helpful tips for handwriting code:
+  * Start in the top-left corner. You want all the room you can get.
+  * Leave blank space between each line of code. This makes it much easier to add things later.
+  * Slow down. Take an extra second to think of descriptive variable names. You might be tempted to move faster by using short variable names, but that actually ends up costing more time. It’ll make your code harder to debug!
+
+3. Set a timer
+  * Get a feel for the time pressure of an actual interview. You should be able to finish a problem in 30–45 minutes, including debugging your code at the end.
+  * If you’re just starting out and the timer adds too much stress, put this technique on the shelf. Add it in later as you start to get more comfortable with solving problems.
+
+4. Think out loud
+  * Like writing code on a whiteboard, this is an acquired skill. It feels awkward at first. But your interviewer will expect you to think out loud during the interview, so you gotta power through that awkwardness.
+  * A good trick to get used to talking out loud: Grab a buddy. Another engineer would be great, but you can also do this with a non-technical friend.
+  * Have your buddy sit in while you talk through a problem. Better yet—try loading up one of our questions on an iPad and giving that to your buddy to use as a script!
+
+5. Set aside a specific time of day to practice.
+   * Give yourself an hour each day to practice. Commit to practicing around the same time, like after you eat dinner. This helps you form a stickier habit of practicing.
+   * Prefer small, daily doses of practice to doing big cram sessions every once in a while. Distributing your practice sessions helps you learn more with less time and effort in the long run.
+
 
 ## REPEATO Method to Ace Coding Interviews
 https://www.fullstackacademy.com/blog/whiteboard-coding-interviews-a-6-step-process-to-solve-any-problem
@@ -13,8 +44,8 @@ https://www.fullstackacademy.com/blog/whiteboard-coding-interviews-a-6-step-proc
 
 ## On: Acing the Coding Interview, by Nick Ciubotariu (ex. Microsoft/Amazon, current CTO @ Venmo)
 https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc
-* STAR structure for interview answers (situation/task/action/result)
-* Interview Strategies
+### STAR structure for interview answers (situation/task/action/result)
+### Interview Strategies
   * KP: Practice with pen/paper or whiteboard
   1. write down interview question in your own words
   2. break down problem into smaller parts => create approach to solve problem
@@ -25,7 +56,7 @@ https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1f
   * Doing this, you will LEARN & INTERNALIZE the subject matter.
   * KP: Run solution in IDE ONLY when you have given it your best shot and exhausted the solution on paper.
   * Write the question on paper => you can review it later.
-* Key Topics:
+### Key Topics:
   1. Trees (esp. Binary Search Trees)
   2. Big O Notation (time/space complexity)
   3. HashTables
@@ -36,7 +67,7 @@ https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1f
   8. Linked Lists
   9. Stacks/Queues
   10. Bit Manipulation
-* Interview Prep Philosophy: "Eat the elephant one bite at a time"
+### Interview Prep Philosophy: "Eat the elephant one bite at a time"
   * Why? CS is dense and hard to digest
   * Solution:
     * Pick an area, increase difficulty as you go, try solving 2-3 problems per day
