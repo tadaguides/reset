@@ -1,0 +1,18 @@
+Data Structures and Algorithms TODO
+
+=> Algorithms
+- Sorts: Quick Sort, Merge Sort, Insertion Sort, Bucket Sort
+- Searches: Binary Search, Depth First Search, Breadth First Search
+- Algorithms: Greedy Algorithms, Dynamic Programming, Divide and Conquer
+
+=> Data Structures
+- Array
+- Linked List
+- Stacks & Queues
+- Hash Tables/Hash Map/Hash Set
+- Trees
+- Binary Search Tree
+- Binary Heaps & Priority Queue
+- Graphs
+- Trie
+- Heaps
