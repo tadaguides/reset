@@ -3,10 +3,21 @@ TECH_INTERVIEW_TODO
 *************************************************
 [TOP PRIORITY]
 
-=> Finish LC Top 75 Question List (reference/top_leetcode_questions.md)
-    - study all solutions and note patterns for each category
-    - solve all problems from scratch with notes
-=> Implement major data structures/most common operations in Python
+[TODO] Craft mastery guides for major interview topics (#tadaguide)
+[OBJECTIVES]
+- Build/reinforce problem-solving patterns
+- Master Computer Science fundamentals
+[TOPICS]
+    - Binary Search Trees
+    - Recursion
+    - Dynamic Programming
+    - Breadth-First Search
+    - Depth-First Search
+    - Binary Search
+    - Merge Sort
+    - Bit Manipulation
+
+[TODO] Implement major data structures/most common operations in Python
     - Graph
     - Linked List
     - Tree
@@ -14,16 +25,12 @@ TECH_INTERVIEW_TODO
     - Trie
     - Stacks
     - Queues
-=> Craft mastery guide for major interview topics (#tadaguide) to reinforce problem-solving patterns
-    - Dynamic Programming
-    - Recursion
-    - Breadth-First Search
-    - Depth-First Search
-    - Binary Search
-    - Merge Sort
-    - Bit Manipulation
-=> Finish LC Google Course
-=> Finish LC Amazon Course
+
+[TODO] Finish LC Top 75 Question List (reference/top_leetcode_questions.md)
+    - study all solutions and note patterns for each category
+    - solve all problems from scratch with notes
+[TODO] Finish LC Google Course
+[TODO] Finish LC Amazon Course
 
 
 

@@ -6,12 +6,12 @@ Data Structures and Algorithms TODO
 - Algorithms: Greedy Algorithms, Dynamic Programming, Divide and Conquer
 
 => Data Structures
+- Binary Trees
+- Binary Search Tree
 - Array
 - Linked List
 - Stacks & Queues
 - Hash Tables/Hash Map/Hash Set
-- Trees
-- Binary Search Tree
 - Binary Heaps & Priority Queue
 - Graphs
 - Trie
