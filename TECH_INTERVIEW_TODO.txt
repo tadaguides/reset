@@ -12,14 +12,17 @@ TECH_INTERVIEW_TODO
     - Tree
     - Binary Search Tree
     - Trie
+    - Stacks
+    - Queues
 => Craft mastery guide for major interview topics (#tadaguide) to reinforce problem-solving patterns
     - Dynamic Programming
     - Recursion
     - Breadth-First Search
     - Depth-First Search
+    - Binary Search
+    - Merge Sort
+    - Bit Manipulation
 => Finish LC Google Course
-=> Finish Top Interview Questions (Medium)
-=> Finish Top Interview Questions (Hard)
 => Finish LC Amazon Course
 
 
