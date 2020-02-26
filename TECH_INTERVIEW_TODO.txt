@@ -3,28 +3,30 @@ TECH_INTERVIEW_TODO
 *************************************************
 [TOP PRIORITY]
 
+[TODO] Implement major data structures/most common operations in Python
+- Graph
+- Linked List
+- Tree
+- Binary Search Tree
+- Trie
+- Stacks
+- Queues
+
 [TODO] Craft mastery guides for major interview topics (#tadaguide)
 [OBJECTIVES]
 - Build/reinforce problem-solving patterns
 - Master Computer Science fundamentals
 [TOPICS]
-    - Binary Search Trees
-    - Recursion
-    - Dynamic Programming
-    - Breadth-First Search
-    - Depth-First Search
-    - Binary Search
-    - Merge Sort
-    - Bit Manipulation
+- Binary Trees
+- Binary Search Trees
+- Recursion
+- Dynamic Programming
+- Breadth-First Search
+- Depth-First Search
+- Binary Search
+- Merge Sort
+- Bit Manipulation
 
-[TODO] Implement major data structures/most common operations in Python
-    - Graph
-    - Linked List
-    - Tree
-    - Binary Search Tree
-    - Trie
-    - Stacks
-    - Queues
 
 [TODO] Finish LC Top 75 Question List (reference/top_leetcode_questions.md)
     - study all solutions and note patterns for each category
