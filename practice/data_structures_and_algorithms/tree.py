@@ -29,11 +29,29 @@ class BinaryTreeTraversalAlgorithms(object):
         # That naturally reproduces preorder traversal.
         while stack:
             root = stack.pop()
+            print 'current root: ', root.val
             if root is not None:
                 output.append(root.val)
+                print 'output: ', output
                 if root.right is not None:
                     stack.append(root.right)
                 if root.left is not None:
                     stack.append(root.left)
+                print 'stack: ', [ s.val for s in stack ]
         
         return output
+
+if __name__ == '__main__':
+    node1 = BinaryTreeNode(1)
+    node2 = BinaryTreeNode(2)
+    node3 = BinaryTreeNode(3)
+    node4 = BinaryTreeNode(4)
+    node5 = BinaryTreeNode(5)
+
+    node1.left = node2
+    node1.right = node5
+    node2.left = node3
+    node2.right = node4
+
+    s = BinaryTreeTraversalAlgorithms()
+    print s.preorderTraversal(node1)
