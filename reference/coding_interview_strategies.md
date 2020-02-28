@@ -253,6 +253,19 @@ I already have a competing offer in hand, so the process from onsites for me is 
 * Big thanks again and good luck to everyone!
 
 
+https://leetcode.com/discuss/interview-experience/521537/Google-or-L4-or-MTV-or-Feb-2020-Offer
+* Make sure what level you are interviewing for. There is no system design for L3 and L4. My recruiter told me I may be qualified for L5 so he sent me system design prep material. I studied system design very hard. However they downgraded me to L4 "before" my onsite and didn't let me know. I found that out on the onsite day. Obviously coding questions at onsite were easier than phone screens.
+* Google allows one failure and considers it as an outlier. They also evaluate how the interviewers performed interviews in the past. I have seen other people completely bombed one round but still received an offer. So, if you think you didn't do well on one round, keep trying hard on the rest of the interviews. This is onsite only. If you fail phone screen, it's over.
+* Have Google onsite first if you are applying multiple companies. (Google takes longer than any other company. If you have onsite at other companies first, you can't have all the offers on the table at the same time.)
+* For coding, leetcode (easy 79, medium 133, hard 43. Total 255) and Grokking Dynamic Programming Patterns for Coding Interviews course (https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews). I had difficulty understanding how to solve DP questions. This course helped me a lot. 
+* Then did mock interviews on interviewing.io A LOT. It's a free service.
+* For system design, grokking system design course, Designing Data-Intensive Application book, lots of youtube videos. I spent 6 months in total.
+* I solved 255 questions. easy 79, medium 133, hard 43. (I solved only high-frequency problems for easy and hard level.)
+* Q: Congrats! What was your prep strategy? how did you leetcode, why did you decide to practiced toplogical sort a lot?
+  * A: Not only topological sort lol I practiced writing Dijkstra, Bellman-Ford, Quick Select, Union Find, KMP, Rectangle Area in Histgram etc within 10 min without a bug. Many times.
+
+
+
 https://leetcode.com/discuss/interview-experience/505412/google-mtv-l4-offer
 * Just wanted to share my interview experience:
 
@@ -262,6 +275,7 @@ The entire preparation process for me took 7+ months, during this time I experie
 
 My interview strategy was the following:
 
+* My strategy for problem solving is: spend 20-25 minutes trying to figure out which pattern to use for each problem, go through each topic and make sure I get enough experience with every pattern. If I can't solve during 25 minutes then just look at the solution and if this is not helpful, try to look for external resources - there are some amazing youtube channels.
 * Completely read and go through each problem in "Cracking the coding interview"
 * Study every day for 4+ hours, every study session was focusing on a algorithmic subject or so
 * Being able to solve problems under a 20-25 minute mark for every major algorithmic category labeled under leetcode, leaving DP programming as a last subject of study. Every time I start working on a subject I would start with the easy problems and if I couldn't solve it I would look at the solution, I think timing how long it takes you to produce a solution is important since during interviews (in many companies) you might be asked to talk about a project and then jump into problem solving, shorting the 45 minute mark you typically have

@@ -3,6 +3,11 @@ TECH_INTERVIEW_TODO
 *************************************************
 [TOP PRIORITY]
 
+
+[TODO] Finish LC Top 75 Question List (reference/top_leetcode_questions.md)
+    - study all solutions and note patterns for each category
+    - solve all problems from scratch with notes
+
 [TODO] Implement major data structures/most common operations in Python
 - Graph
 - Linked List
@@ -28,9 +33,6 @@ TECH_INTERVIEW_TODO
 - Bit Manipulation
 
 
-[TODO] Finish LC Top 75 Question List (reference/top_leetcode_questions.md)
-    - study all solutions and note patterns for each category
-    - solve all problems from scratch with notes
 [TODO] Finish LC Google Course
 [TODO] Finish LC Amazon Course
 
