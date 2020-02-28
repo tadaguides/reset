@@ -23,3 +23,6 @@ https://github.com/wuduhren/leetcode-python/blob/master/README.md
 * Intersection of Two Arrays II: https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/674/
   * keep 2 pointers, sort both arrays => if both values are current index in both arrays are equal, add value to rtn, else increment whichever counter corresponds to the smaller value at that index
   * if one array is much smaller, store frequency of each value in a dictionary for smaller array, then iterate through larger array => when a value is found in dict, decrement counter (until 0) and add value to rtn
+
+* https://leetcode.com/problems/product-of-array-except-self/
+  * Scan array once forward, tracking the product of all elements before i in output => scan array in reverse, multiplying the product of all elements after i in output
