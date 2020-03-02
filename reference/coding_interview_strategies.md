@@ -50,6 +50,7 @@ https://leetcode.com/explore/interview/card/coding-interview-strategy/208/prepar
 
 ## REPEATO Method to Ace Coding Interviews
 https://www.fullstackacademy.com/blog/whiteboard-coding-interviews-a-6-step-process-to-solve-any-problem
+
 * R(epeat): Repeat the question
 * E(xamples): Write out examples
 * A(ppraoches): Describe your approaches
@@ -61,6 +62,7 @@ https://www.fullstackacademy.com/blog/whiteboard-coding-interviews-a-6-step-proc
 
 ## On: Acing the Coding Interview, by Nick Ciubotariu (ex. Microsoft/Amazon, current CTO @ Venmo)
 https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc
+
 ### STAR structure for interview answers (situation/task/action/result)
 ### Interview Strategies
   * KP: Practice with pen/paper or whiteboard
@@ -184,39 +186,40 @@ https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1f
 ---
 
 ## Best habits for coding interview prep
-https://www.teamblind.com/post/Habits-when-preparing-for-interview-Fa1i7Mz6
-* "You are looking for tricks when the only trick is to be good or practice until you are."
-* "I was always afraid of failing interviews so I'd put off any company I really wanted to join until I was "ready". Guess what? You're never ready. I recently started interviewing aggressively a month ago and have 2 offers today. Throw enough stones at a wall, and something will stick."
-* "Those people who cleared Google by practicing less than 10 problems just lucked out. My advice is fail fast. Practise for couple of weeks, schedule interview with non FANG and see how you perform. Don't spend way too much time preparing. Trust me, even if you prepare for 2 years, there is still no guarantee that you will do well on the interview day."
-* "Interview until it feels like a practiced speech."
-* "Those who cleared it in under 10 question have always been practising on other platforms or had a competitive programming past. My only habit before I cleared Google L3 was to do leetcode daily. Barring one day I did leetcode daily since 3rd Sep to end of November. I had done ~400 questions when I gave my onsite and I got the offer."
-* "I’ll share my personal from the last job change (Amazon):
-1. Sleep routine - did change 6 hours a night unfortunately with kids plus 1 8-9 hours night a week
-2. Exercise whenever I get to
-3. Routine - on weekdays 1.5 to 2 hours of leetcode in the evening and double that on weekends
-4. Start with ctci to make sure you cover the basics , theory and common patterns and only then move to leetcode
-Space interviews to 1-2 a week tops so you can leetcode premium per company / do research on what each company and tune your prep towards each one
-Do couple of non faang before faang to realize where you are and remove the nervousness
-I prepped for about 1 month before starting to submit resumes and got to onsites at the 1.5-2 months line which was perfect for me. My attention span and patience for leetcode at that amount was starting to end. Interviewed at 5 places - 3 of them faang. Got yes from 3, no from one and process was too slow at the last one due to headcount at the location I wanted. Only submitted to places I would really work for - 5 out of 5 returned my calls - most of them within a couple of days. All internal referrals of sorts. I had about 1-2 interviews a week so in total it was 3 weeks - I notified the first two companies that it would take me couple of weeks to get decision made. And the last two that I have offers in hand. If you’re clear with the recruiter about the timeline and open - they can usually work it out. Had unlimited pto and free work from home policy. So I was sick one day, off with the kids another , visiting my brother on family matters and one interview I managed to do after my regular work hour. In total I took days off only for onsites and worked from home for the rest of the interviews / scheduled them after work time."
-* "What worked for me was to do as many real interviews. Did about 1 coding problem a day for about 2 months. Failed first few phone screens, then passed next dozen. No offers on first several onsites. Ended up with 2 offers after a dozen attempts. I go through this every few years but have been improving. I’d consider myself a late bloomer."
-* "Numbers of questions is less important than covering most categories. Also prepared for system design, but didn’t practice mocks(this was a mistake in hindsight). I was spending less hours at work, but felt more productive after doing coding on leetcode ( this is one thing that surprised me, preparing for interviews does help learn things which you normally won’t go out and teach yourself)
-Q: Anything else that you think were consciously helpful??
-A: I failed few interviews, some at phone screen level. This is expected, dont overthink if uou get rejected, but get a sense of how you can do better. Do mock interviews(specially system design), interviewing is another skill that you get better as you do more. If you feel unprepared postpone the interviews."
-* "I know a lot of people who have cracked FANG and other tier 1 companies. Most of them used to practice ~2 hours in the morning before work and in the evening post work. This also had other positive effects on them like waking up early, keeping mind active (since office work becomes menial at times) and most importantly (maybe completely unrelated) made them efficient at office. They knew they couldn't afford to waste time in office nonsense."
-* "Create an interview "ladder" in order of increasing difficulty and preference( how much you want to work there). Lower preference, easy interviews on the bottom and higher preference, harder ones on top. Start prepping, and talk to the companies lower down. They act as tests for your interview prep strategy. Identify and fix gaps in your preparation. Repeat for every level up in your interview ladder. For prep, spend half an hour every day initially on easy problems, then build up to an hour on medium and hard, Just like training for a marathon. Keeping it fun and interesting is very important. Have cheat days when you skip leet and do something fun instead. Keeps the motivation up. Overhauling your schedule like you are suggesting may sound great to start with, but it probably isn't sustainable."
-* "Preparation makes me confident so I always have to be over-prepared. I basically read through the job description and bullet point every skill, term, topic mentioned in the post. Then I went through the bullet points again and added more for any additional adjacent skills that would be required. I made sure I could provide 3 types of talking points for each bullet."
-  * provide the 5 Ws (who/what/when/where/why)
-  * provide an example
-  * provide an example of my experience with this topic
+* https://www.teamblind.com/post/Habits-when-preparing-for-interview-Fa1i7Mz6
+  * "You are looking for tricks when the only trick is to be good or practice until you are."
+  * "I was always afraid of failing interviews so I'd put off any company I really wanted to join until I was "ready". Guess what? You're never ready. I recently started interviewing aggressively a month ago and have 2 offers today. Throw enough stones at a wall, and something will stick."
+  * "Those people who cleared Google by practicing less than 10 problems just lucked out. My advice is fail fast. Practise for couple of weeks, schedule interview with non FANG and see how you perform. Don't spend way too much time preparing. Trust me, even if you prepare for 2 years, there is still no guarantee that you will do well on the interview day."
+  * "Interview until it feels like a practiced speech."
+  * "Those who cleared it in under 10 question have always been practising on other platforms or had a competitive programming past. My only habit before I cleared Google L3 was to do leetcode daily. Barring one day I did leetcode daily since 3rd Sep to end of November. I had done ~400 questions when I gave my onsite and I got the offer."
+  * "I’ll share my personal from the last job change (Amazon):
+  1. Sleep routine - did change 6 hours a night unfortunately with kids plus 1 8-9 hours night a week
+  2. Exercise whenever I get to
+  3. Routine - on weekdays 1.5 to 2 hours of leetcode in the evening and double that on weekends
+  4. Start with ctci to make sure you cover the basics , theory and common patterns and only then move to leetcode
+  Space interviews to 1-2 a week tops so you can leetcode premium per company / do research on what each company and tune your prep towards each one
+  Do couple of non faang before faang to realize where you are and remove the nervousness
+  I prepped for about 1 month before starting to submit resumes and got to onsites at the 1.5-2 months line which was perfect for me. My attention span and patience for leetcode at that amount was starting to end. Interviewed at 5 places - 3 of them faang. Got yes from 3, no from one and process was too slow at the last one due to headcount at the location I wanted. Only submitted to places I would really work for - 5 out of 5 returned my calls - most of them within a couple of days. All internal referrals of sorts. I had about 1-2 interviews a week so in total it was 3 weeks - I notified the first two companies that it would take me couple of weeks to get decision made. And the last two that I have offers in hand. If you’re clear with the recruiter about the timeline and open - they can usually work it out. Had unlimited pto and free work from home policy. So I was sick one day, off with the kids another , visiting my brother on family matters and one interview I managed to do after my regular work hour. In total I took days off only for onsites and worked from home for the rest of the interviews / scheduled them after work time."
+  * "What worked for me was to do as many real interviews. Did about 1 coding problem a day for about 2 months. Failed first few phone screens, then passed next dozen. No offers on first several onsites. Ended up with 2 offers after a dozen attempts. I go through this every few years but have been improving. I’d consider myself a late bloomer."
+  * "Numbers of questions is less important than covering most categories. Also prepared for system design, but didn’t practice mocks(this was a mistake in hindsight). I was spending less hours at work, but felt more productive after doing coding on leetcode ( this is one thing that surprised me, preparing for interviews does help learn things which you normally won’t go out and teach yourself)
+  Q: Anything else that you think were consciously helpful??
+  A: I failed few interviews, some at phone screen level. This is expected, dont overthink if uou get rejected, but get a sense of how you can do better. Do mock interviews(specially system design), interviewing is another skill that you get better as you do more. If you feel unprepared postpone the interviews."
+  * "I know a lot of people who have cracked FANG and other tier 1 companies. Most of them used to practice ~2 hours in the morning before work and in the evening post work. This also had other positive effects on them like waking up early, keeping mind active (since office work becomes menial at times) and most importantly (maybe completely unrelated) made them efficient at office. They knew they couldn't afford to waste time in office nonsense."
+  * "Create an interview "ladder" in order of increasing difficulty and preference( how much you want to work there). Lower preference, easy interviews on the bottom and higher preference, harder ones on top. Start prepping, and talk to the companies lower down. They act as tests for your interview prep strategy. Identify and fix gaps in your preparation. Repeat for every level up in your interview ladder. For prep, spend half an hour every day initially on easy problems, then build up to an hour on medium and hard, Just like training for a marathon. Keeping it fun and interesting is very important. Have cheat days when you skip leet and do something fun instead. Keeps the motivation up. Overhauling your schedule like you are suggesting may sound great to start with, but it probably isn't sustainable."
+  * "Preparation makes me confident so I always have to be over-prepared. I basically read through the job description and bullet point every skill, term, topic mentioned in the post. Then I went through the bullet points again and added more for any additional adjacent skills that would be required. I made sure I could provide 3 types of talking points for each bullet."
+    * provide the 5 Ws (who/what/when/where/why)
+    * provide an example
+    * provide an example of my experience with this topic
 
 ---
 
 ## Getting that job at Google
-http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
+* http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
 * Warm-up #1: Study an algorithm book
   * This helps with problem identification: recognize certain problems are best solved with certain data structures & algorithms
   * Suggested: Algorithm Design Manual (Skiena), Intro to Algorithms (CLRS)
 * Warm-up #2: Do mock interviews!
+
 ### Tech Prep Tips:
 * Algorithm Complexity: you need to know Big-O. It's a must. If you struggle with basic big-O complexity analysis, then you are almost guaranteed not to get hired. It's, like, one chapter in the beginning of one theory of computation book, so just go read it. You can do it.
 * Sorting: know how to sort. Don't do bubble-sort. You should know the details of at least one n*log(n) sorting algorithm, preferably two (say, quicksort and merge sort). Merge sort can be highly useful in situations where quicksort is impractical.
@@ -263,8 +266,8 @@ https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-struct
 
 ---
 
-## From 0 to Success with LeetCode
-https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLinkedIn
+### From 0 to Success with LeetCode
+* https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLinkedIn
 * Don't be demotivated at your current level. I started from a place where I was bombing every interview and now I've done much better than what I was expecting. Start and be consistent.
 * Try getting comfortable in every topic. Don't leave anything behind.
 * Don't spend more than an hour on any question. If you can't figure out the solution, mark it and revisit later.
@@ -327,8 +330,8 @@ https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLin
 
 ---
 
-## There are no shortcuts
-https://leetcode.com/discuss/interview-experience/505108/nda-google-l4l5-japan-feb-2020-pending-offer
+### There are no shortcuts
+* https://leetcode.com/discuss/interview-experience/505108/nda-google-l4l5-japan-feb-2020-pending-offer
 
 * Status: BS, 5+ Yoe in Tier-1 Company (In Japan), Top University in Japan
 * Position: L4/L5
@@ -370,34 +373,34 @@ I already have a competing offer in hand, so the process from onsites for me is 
 
 ### Google Interview Offers
 
-https://leetcode.com/discuss/interview-experience/521537/Google-or-L4-or-MTV-or-Feb-2020-Offer
-* Make sure what level you are interviewing for. There is no system design for L3 and L4. My recruiter told me I may be qualified for L5 so he sent me system design prep material. I studied system design very hard. However they downgraded me to L4 "before" my onsite and didn't let me know. I found that out on the onsite day. Obviously coding questions at onsite were easier than phone screens.
-* Google allows one failure and considers it as an outlier. They also evaluate how the interviewers performed interviews in the past. I have seen other people completely bombed one round but still received an offer. So, if you think you didn't do well on one round, keep trying hard on the rest of the interviews. This is onsite only. If you fail phone screen, it's over.
-* Have Google onsite first if you are applying multiple companies. (Google takes longer than any other company. If you have onsite at other companies first, you can't have all the offers on the table at the same time.)
-* For coding, leetcode (easy 79, medium 133, hard 43. Total 255) and Grokking Dynamic Programming Patterns for Coding Interviews course (https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews). I had difficulty understanding how to solve DP questions. This course helped me a lot. 
-* Then did mock interviews on interviewing.io A LOT. It's a free service.
-* For system design, grokking system design course, Designing Data-Intensive Application book, lots of youtube videos. I spent 6 months in total.
-* I solved 255 questions. easy 79, medium 133, hard 43. (I solved only high-frequency problems for easy and hard level.)
-* Q: Congrats! What was your prep strategy? how did you leetcode, why did you decide to practiced toplogical sort a lot?
-  * A: Not only topological sort lol I practiced writing Dijkstra, Bellman-Ford, Quick Select, Union Find, KMP, Rectangle Area in Histgram etc within 10 min without a bug. Many times.
+* https://leetcode.com/discuss/interview-experience/521537/Google-or-L4-or-MTV-or-Feb-2020-Offer
+  * Make sure what level you are interviewing for. There is no system design for L3 and L4. My recruiter told me I may be qualified for L5 so he sent me system design prep material. I studied system design very hard. However they downgraded me to L4 "before" my onsite and didn't let me know. I found that out on the onsite day. Obviously coding questions at onsite were easier than phone screens.
+  * Google allows one failure and considers it as an outlier. They also evaluate how the interviewers performed interviews in the past. I have seen other people completely bombed one round but still received an offer. So, if you think you didn't do well on one round, keep trying hard on the rest of the interviews. This is onsite only. If you fail phone screen, it's over.
+  * Have Google onsite first if you are applying multiple companies. (Google takes longer than any other company. If you have onsite at other companies first, you can't have all the offers on the table at the same time.)
+  * For coding, leetcode (easy 79, medium 133, hard 43. Total 255) and Grokking Dynamic Programming Patterns for Coding Interviews course (https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews). I had difficulty understanding how to solve DP questions. This course helped me a lot. 
+  * Then did mock interviews on interviewing.io A LOT. It's a free service.
+  * For system design, grokking system design course, Designing Data-Intensive Application book, lots of youtube videos. I spent 6 months in total.
+  * I solved 255 questions. easy 79, medium 133, hard 43. (I solved only high-frequency problems for easy and hard level.)
+  * Q: Congrats! What was your prep strategy? how did you leetcode, why did you decide to practiced toplogical sort a lot?
+    * A: Not only topological sort lol I practiced writing Dijkstra, Bellman-Ford, Quick Select, Union Find, KMP, Rectangle Area in Histgram etc within 10 min without a bug. Many times.
 
 
 https://leetcode.com/discuss/interview-experience/505412/google-mtv-l4-offer
 * Just wanted to share my interview experience:
 
-I applied to google in December and had my onsite in the same month, because of the NDA I can't disclose specific problems.
+* I applied to google in December and had my onsite in the same month, because of the NDA I can't disclose specific problems.
 
-The entire preparation process for me took 7+ months, during this time I experienced rejections from Pinterest, Amazon and Dropbox but I used these rejections as an inspiration to keep pushing myself to improve, I also had offers from other companies which I declined since.
+* The entire preparation process for me took 7+ months, during this time I experienced rejections from Pinterest, Amazon and Dropbox but I used these rejections as an inspiration to keep pushing myself to improve, I also had offers from other companies which I declined since.
 
-My interview strategy was the following:
+* My interview strategy was the following:
 
-* My strategy for problem solving is: spend 20-25 minutes trying to figure out which pattern to use for each problem, go through each topic and make sure I get enough experience with every pattern. If I can't solve during 25 minutes then just look at the solution and if this is not helpful, try to look for external resources - there are some amazing youtube channels.
-* Completely read and go through each problem in "Cracking the coding interview"
-* Study every day for 4+ hours, every study session was focusing on a algorithmic subject or so
-* Being able to solve problems under a 20-25 minute mark for every major algorithmic category labeled under leetcode, leaving DP programming as a last subject of study. Every time I start working on a subject I would start with the easy problems and if I couldn't solve it I would look at the solution, I think timing how long it takes you to produce a solution is important since during interviews (in many companies) you might be asked to talk about a project and then jump into problem solving, shorting the 45 minute mark you typically have
-* Being able to communicate efficiently my ideas during the onsite
-* During the onsite I would even recommend solving the problem or at least mentioning a solution you thought of even if it's not optimal
-Took me a lot of rejections but I finally did it and I would say leetcode is definitely a tool that can help you.
+  * My strategy for problem solving is: spend 20-25 minutes trying to figure out which pattern to use for each problem, go through each topic and make sure I get enough experience with every pattern. If I can't solve during 25 minutes then just look at the solution and if this is not helpful, try to look for external resources - there are some amazing youtube channels.
+  * Completely read and go through each problem in "Cracking the coding interview"
+  * Study every day for 4+ hours, every study session was focusing on a algorithmic subject or so
+  * Being able to solve problems under a 20-25 minute mark for every major algorithmic category labeled under leetcode, leaving DP programming as a last subject of study. Every time I start working on a subject I would start with the easy problems and if I couldn't solve it I would look at the solution, I think timing how long it takes you to produce a solution is important since during interviews (in many companies) you might be asked to talk about a project and then jump into problem solving, shorting the 45 minute mark you typically have
+  * Being able to communicate efficiently my ideas during the onsite
+  * During the onsite I would even recommend solving the problem or at least mentioning a solution you thought of even if it's not optimal
+  Took me a lot of rejections but I finally did it and I would say leetcode is definitely a tool that can help you.
 
 
 https://leetcode.com/discuss/interview-experience/424540/Google-or-L5-or-MTV-or-Oct-2019-Offer
@@ -578,7 +581,7 @@ The timeline for an interviewer to submit this feedback is less than 2 business 
 ---
 
 ## Amazon Coding Experience (SDE2)
-https://leetcode.com/discuss/interview-experience/507025/amazon-sde-2-nyc-feb-2020-offer
+* https://leetcode.com/discuss/interview-experience/507025/amazon-sde-2-nyc-feb-2020-offer
 
 Status: MS Electrical Eng. Top 3 School (Canada)
 Experience: a bit less than 2 years (in 5G Research mostly)
@@ -636,4 +639,4 @@ Advice to fellow leetcoders: Part of interviewing is luck as much as I hate to s
 ---
 
 ### Misc Links
-https://www.rooftopslushie.com/request/Google%20engineering%20manager%20interviews-2019
+* https://www.rooftopslushie.com/request/Google%20engineering%20manager%20interviews-2019
