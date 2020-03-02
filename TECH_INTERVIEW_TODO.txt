@@ -4,14 +4,36 @@ TECH_INTERVIEW_TODO
 [TOP PRIORITY]
 
 
-[TODO] Finish LC Top Easy Interview Questions
-    - finish all questions: target time <5 mins per question
-    - summarize problem solving patterns
+[TODO] Finish LC Top Easy Interview Questions (DUE: 06Mar2020 Midnight)
+- submit solutions to all questions on LC: target time < 10 mins per question
+    * Array
+    - Strings
+    - Linked Lists
+    - Trees
+    - Sorting and Searching
+    - Dynamic Programming
+    - Design
+    - Math
+    - Others
+- summarize problem solving patterns in problem_solving_strategies.md
+
+[TODO] Finish LC Top Medium Interview Questions (DUE: 15Mar2020 Midnight)
+- submit solutions to all questions on LC: target time < 20 mins per question
+    * Array
+    - Strings
+    - Linked Lists
+    - Trees
+    - Sorting and Searching
+    - Dynamic Programming
+    - Design
+    - Math
+    - Others
+- summarize problem solving patterns in problem_solving_strategies.md
 
 
 [TODO] Finish LC Top 75 Question List (reference/top_leetcode_questions.md)
-    - study all solutions and note patterns for each category
-    - solve all problems from scratch with notes
+- study all solutions and note patterns for each category
+- solve all problems from scratch with notes
 
 [TODO] Implement major data structures/most common operations in Python
 - Graph
