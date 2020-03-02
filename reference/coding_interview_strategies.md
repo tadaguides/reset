@@ -1,8 +1,12 @@
 # Coding Interview Strategies
 
-## Top Tips:
-* Be really comfortable with easy questions. This means <5 minutes each, at most. Binary search, sorting, simple data structure operations must be automatic. Medium questions are the most important ones to do in order to prepare for interviews. Don't spend too much time on hard questions: if you are comfortable with mediums, then usually hard questions are just a intricate mix of medium questions. If you can't get to a solution after 30 mins (or 1 hour if you feel like you're close), just look up the solution, and then go back and solve the question in your own code. Don't copy and paste!
-* Once you're comfortable solving questions, focus on speed. Mock interviews are good for that, because they give you a time limit and put you under pressure. * My target times were:
+## Top Points:
+* Be really comfortable with easy questions. This means <5 minutes each, at most. Binary search, sorting, simple data structure operations must be automatic. 
+* Medium questions are the most important ones to do in order to prepare for interviews. 
+* Don't spend too much time on hard questions: if you are comfortable with mediums, then usually hard questions are just a intricate mix of medium questions. 
+* If you can't get to a solution after 30 mins (or 1 hour if you feel like you're close), just look up the solution, and then go back and solve the question in your own code. Don't copy and paste!
+* Once you're comfortable solving questions, focus on speed. Mock interviews are good for that, because they give you a time limit and put you under pressure. 
+* Target times:
   * Easy: < 5 minutes.
   * Medium: < 15 - 20 minutes.
   * Hard: < 30 - 40 minutes.
