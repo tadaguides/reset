@@ -6,7 +6,7 @@
 * Don't spend too much time on hard questions: if you are comfortable with mediums, then usually hard questions are just a intricate mix of medium questions. 
 * If you can't get to a solution after 30 mins (or 1 hour if you feel like you're close), just look up the solution, and then go back and solve the question in your own code. Don't copy and paste!
 * Once you're comfortable solving questions, focus on speed. Mock interviews are good for that, because they give you a time limit and put you under pressure. 
-* Target times:
+* Target times (TIME EVERY SESSION):
   * Easy: < 5 minutes.
   * Medium: < 15 - 20 minutes.
   * Hard: < 30 - 40 minutes.
