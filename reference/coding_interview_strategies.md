@@ -1,5 +1,7 @@
 # Coding Interview Strategies
 
+---
+
 ## Top Points:
 * Be really comfortable with easy questions. This means <5 minutes each, at most. Binary search, sorting, simple data structure operations must be automatic. 
 * Medium questions are the most important ones to do in order to prepare for interviews. 
@@ -12,7 +14,6 @@
   * Hard: < 30 - 40 minutes.
 
 ---
-
 
 ## Maximizing Your Practice
 https://leetcode.com/explore/interview/card/coding-interview-strategy/208/preparation/1354/
@@ -45,6 +46,7 @@ https://leetcode.com/explore/interview/card/coding-interview-strategy/208/prepar
   * Give yourself an hour each day to practice. Commit to practicing around the same time, like after you eat dinner. This helps you form a stickier habit of practicing.
   * Prefer small, daily doses of practice to doing big cram sessions every once in a while. Distributing your practice sessions helps you learn more with less time and effort in the long run.
 
+---
 
 ## REPEATO Method to Ace Coding Interviews
 https://www.fullstackacademy.com/blog/whiteboard-coding-interviews-a-6-step-process-to-solve-any-problem
@@ -55,6 +57,7 @@ https://www.fullstackacademy.com/blog/whiteboard-coding-interviews-a-6-step-proc
 * T(est): Test your code
 * O(ptimization): Optimization
 
+---
 
 ## On: Acing the Coding Interview, by Nick Ciubotariu (ex. Microsoft/Amazon, current CTO @ Venmo)
 https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1fd3fc
@@ -110,6 +113,7 @@ https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1f
       * KP: Write clean and compilable code
       * KP: Relax and show confidence!!!
 
+---
 
 ## LeetCode Grinding Guide
 * https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/
@@ -177,6 +181,8 @@ https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1f
 
 * TL;DR: Leetcode mock interviews saved my life. Use real resources, not random online blogs. Focus on correctness, and then speed.
 
+---
+
 ## Best habits for coding interview prep
 https://www.teamblind.com/post/Habits-when-preparing-for-interview-Fa1i7Mz6
 * "You are looking for tricks when the only trick is to be good or practice until you are."
@@ -203,6 +209,7 @@ A: I failed few interviews, some at phone screen level. This is expected, dont o
   * provide an example
   * provide an example of my experience with this topic
 
+---
 
 ## Getting that job at Google
 http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
@@ -242,13 +249,19 @@ http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
 * Coding: You should know at least one programming language really well, and it should preferably be C++ or Java. C# is OK too, since it's pretty similar to Java. You will be expected to write some code in at least some of your interviews. You will be expected to know a fair amount of detail about your favorite programming language.
 
 
+---
+
 ## Getting that job at Facebook
 https://www.facebook.com/notes/facebook-engineering/get-that-job-at-facebook/10150964382448920
 
 
+---
+
 ## Comprehensive Data Structure and Algorithm Study Guide
 https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide
 
+
+---
 
 ## From 0 to Success with LeetCode
 https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLinkedIn
@@ -263,6 +276,56 @@ https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLin
 * I decided to proceed to Medium questions and the same story repeated. Found them extremely hard, but as time progressed, I could solve a good number of those questions as well. I have to admit that I can do very few hard questions within an hour even after solving 250+ questions. And sometimes it takes hours to understand the solution as well.
 * Eventually I tried taking out Leetcode premium. I took it for a month first, and loved it, so I took a yearly subscription. The best part about premium subscription is that you get questions sorted company wise and frequency wise. I would prepare by targeting the company specific questions for the big players (Amazon, Apple, LinkedIn, Facebook, Microsoft, Uber, Google etc.) and then by frequency. It worked out great for me, and it is especially useful when you are running under a time crunch.
 
+
+---
+### I Leetcoded (And So Can You!)
+* https://leetcode.com/discuss/general-discussion/390646/I-Leetcoded-(And-So-Can-You!)/
+* I’ve been seeing a few posts about people burning out on doing problems lately. As someone that just recently finished their own Leetcode grind I wanted to contribute some resources as well as insights gleaned from my experience. Good news first, there is a light at the end of the tunnel and it’s definitely possible to receive an offer from a FANG company if you’re able to solve easy to medium problems! I don’t consider myself particularly intelligent so given adequate preparation there’s no reason why anyone wouldn’t be able to do it. Additionally the number of posts on how frustrated or burned out people get working on these problems should give you an indicator that they are not easy. You shouldn’t berate yourself for thinking it’s hard, it is. Some logistics before getting into tips, I don’t have a background in computer science and I quit my job to focus on prepping full time. It took about 2 and half months to complete 330 questions. Keep in mind these tips are more for people starting at zero. They are probably less applicable if you are a Leetcode expert, interview veteran or already have an existing in-depth understanding of computer science.
+1. Starting from the bottom
+  * If you have a company in mind that you want to apply to it’s tempting to just go to the companies section for example Google or Facebook and start with those problems. The truth is that many of those problems are on the more difficult side of the spectrum and it is particularly hard to understand a complex backtracking problem if you don’t comprehend the basics of recursion. Leetcode has great sections on specific computer science topics like recursion, binary trees and heaps. Develop your knowledge on a given topic and complete a few problems associated with the topic before moving on.
+
+2. Train how you fight
+  * Taking a line from the marines here but the point still stands. Once you feel comfortable enough going through questions on your own try to simulate the interview environment as closely as possible. This means timing yourself and working out problems on an actual whiteboard while explaining each step of your problem solving process. It also means you should recognize your weaknesses and prepare the best way to compensate for them. If you find it difficult to do problems in the morning due to lack of sleep or you’re just not a morning person you should schedule some practice session in the morning to acclimate to the time. In all likelihood some of your interviews will be scheduled for the morning.
+
+3. Don’t go it alone
+  * As discussed the preparation process is difficult. However in all likelihood there are people in your city or community that are going through the very same process that you are. I have found it extremely helpful to set mock interviews in person or bounce ideas off those people. It will not only help your whiteboarding and communication skills but it will make you feel a little more sane and less isolated from doing problems by yourself. You can find these people on Blind, Leetcode or Pramp.
+
+4. Not a numbers game or memorization game
+  * I have seen many people have a specific number of problems they want to complete before attempting interviews but the number in and of itself isn’t too important. Equally true is the fact that you shouldn’t focus on memorizing the exact solution to problems. It’s much more important to understand the patterns and different strategies on how to solve a specific problem rather then rely on memorization. Most of the problems I saw were not on Leetcode but I had seen the concepts before. There usually are multiple ways to solve a given a problem, once you solve it go back and understand other solutions even if you already have the optimal solution, it may help you solve other ones down the line. This will be extremely helpful when interviewers ask follow up questions on a problem or ask for an alternative solution.
+
+5. Pull the trigger
+  * In all honesty you’ll never feel 100% ready to go in for the interview. It’s important to set a hard goal or deadline for yourself on when you will apply and start interviewing or you risk eternal interview prep. Once that’s completed you have to trust yourself and the fact that you’ve done all you could do to prepare, it’s time to put to work all that you’ve learned and execute. Whether or not you get the offer you should know that you’ve become a better engineer in the process and that there are opportunities out there for you.
+
+* I’ve included a comprehensive list of resources that I used in my preparation below, good luck everyone!
+
+* Courses
+  * https://www.educative.io/courses/grokking-the-system-design-interview
+  * https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews
+  * https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+  * https://www.youtube.com/watch?v=y62zj9ozPOM&list=PLhQjrBD2T3828ZVcVzEIhsHVgjANGZveu
+
+* Youtube Channels
+  * https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA/playlists
+  * https://www.youtube.com/user/tusharroy2525/playlists
+  * https://www.youtube.com/user/mycodeschool/playlists
+  * https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA/playlists
+  * https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/playlists
+
+
+* Mock Interview
+  * https://www.pramp.com
+  * https://triplebyte.com
+
+* Blogs
+  * https://medium.com/outco
+  * https://medium.com/@liyin2015
+  * https://medium.com/@sourabreddy
+  * https://github.com/donnemartin/system-design-primer
+  * https://www.geeksforgeeks.org/
+  * https://github.com/sindresorhus/awesome
+  * https://github.com/liyin2015/Algorithms-and-Coding-Interviews
+
+---
 
 ## There are no shortcuts
 https://leetcode.com/discuss/interview-experience/505108/nda-google-l4l5-japan-feb-2020-pending-offer
@@ -303,6 +366,9 @@ Others
 I already have a competing offer in hand, so the process from onsites for me is very fast. I'd recommend everyone has a competing offer before doing interview with FAANG, even it actually cannot compete financially, it may help to speed up the process.
 * Big thanks again and good luck to everyone!
 
+---
+
+### Google Interview Offers
 
 https://leetcode.com/discuss/interview-experience/521537/Google-or-L4-or-MTV-or-Feb-2020-Offer
 * Make sure what level you are interviewing for. There is no system design for L3 and L4. My recruiter told me I may be qualified for L5 so he sent me system design prep material. I studied system design very hard. However they downgraded me to L4 "before" my onsite and didn't let me know. I found that out on the onsite day. Obviously coding questions at onsite were easier than phone screens.
@@ -314,7 +380,6 @@ https://leetcode.com/discuss/interview-experience/521537/Google-or-L4-or-MTV-or-
 * I solved 255 questions. easy 79, medium 133, hard 43. (I solved only high-frequency problems for easy and hard level.)
 * Q: Congrats! What was your prep strategy? how did you leetcode, why did you decide to practiced toplogical sort a lot?
   * A: Not only topological sort lol I practiced writing Dijkstra, Bellman-Ford, Quick Select, Union Find, KMP, Rectangle Area in Histgram etc within 10 min without a bug. Many times.
-
 
 
 https://leetcode.com/discuss/interview-experience/505412/google-mtv-l4-offer
@@ -436,8 +501,9 @@ Summary and Advice:
 * There's a lot of information to acquire for simply understanding the fundamentals of algorithms. For example, the CLRS "Intro to Algorithms" book is 1292 pages long; that's a loquacious "introduction"! It takes time to fundamentally understand these algorithms by sharpening the mind's eye. However, the brain can slowly restructure itself to meet cognitive demands. Just learn a little bit each day and stick with it. The compounding interest (ie. pay day) will come. That's the law of the harvest, you reap what you sow.
 * Final Thoughts: I really hope this is a helpful and motivational post for everyone, and especially for "older" software engineers like myself. Have fun and keep learning! Continually re-invent yourself as a modern software engineer.
 
+---
 
-## How to get into FAANG
+### How to get into FAANG
 * Prompt: Suggest the best resources for each topic that Faang interviewer can ask. You may include a few books as well if really needed, but I honestly prefer online resources. Also, I will be happier if you give the one resource recommendations for one topic. If you have two recommendations for some of the topics and you feel that I should go through both, then suggest both.
 * URL: https://www.rooftopslushie.com/request/How-to-get-into-FAANG---proper-plan-with-sources-241
 * The resources you need are fairly straightforward. I’m going to make this one long post and copy paste the response because you essentially are asking a derivation of each question in each section of your post.
@@ -467,6 +533,7 @@ Summary and Advice:
 
 * CTCI (maybe 3 months if no prior knowledge) -> Leetcode + Grokking (a month to start shoring things up) -> Keep Leetcoding / Practice + Doing mocks 1/2 times a week (a month) -> assess your progress if you’re ready to start interviewing -> Start doing interviews with lower priority companies -> Schedule interviews with FAANG
 
+---
 
 => Google SWE (Blind: teamblind.com/article/Thank-you-Blind-JpZWEdHg)
 * Did about 300 LC [20/50/30] (I ended up getting leetcode premium) (about 7 months)
@@ -507,6 +574,8 @@ The timeline for an interviewer to submit this feedback is less than 2 business 
 * When a candidate comes for an onsite interview, a candidate will usually be scheduled for 4 interviews plus a "lunch interview". Usually two interviews, then lunch, then the last two. The only major differences between onsite and phone interviews are that onsites happen on a whiteboard, and interviewers more often use the full 45 minutes to ask the interview questions, since candidates have time to ask their lunch interviewer questions. Onsites are also somewhat more likely to have 2 (easier) questions, instead of just 1, since there is more time. The lunch interviewer does not rate the candidate, and is just there to make small talk and answer questions (though I think this might be different for different roles or something? In any case, it wouldn't be kept a secret if the candidate was being evaluated during lunch).
 * The onsite interviewers submit the same style of feedback as phone interviewers. After they have all submitted feedback, the recruiter will decide whether or not to refer the candidate to a hiring committee. A candidate with very little or no positive feedback usually is outright rejected, but people with mixed feedback or better usually go to the hiring committee. I've never been on a hiring committee, so I don't know a lot about what happens at this point, but the high-level summary is that the committee will review all of the phone and onsite interviewers' feedback and use that to issue a hire/no hire decision. Hiring committees might also recommend a hire, but at a lower level than the candidate was evaluated for. Candidates often don't hear back about the hiring committee decision for at least 2 weeks.
 * If the committee recommends a hire, then at that point the recruiter will schedule "fit calls" with managers from a few teams, to see if there's mutual interest between the candidate and that manager. (Sometimes this step may happen before the onsite interviews, instead. I don't know what determines this). Fit calls are pretty unstructured, and not really fail-able, in the sense that even if none of the teams you talk to are interested, the recruiter will likely just schedule you with more teams (this may be less true if the fit calls happen before onsite interviews). That said, getting an offer is dependent on matching with a team, so candidates should try to ask good questions and be personable. After matching with a team, a candidate will get an offer. I don't know how the offer amount is determined.
+
+---
 
 ## Amazon Coding Experience (SDE2)
 https://leetcode.com/discuss/interview-experience/507025/amazon-sde-2-nyc-feb-2020-offer
@@ -562,3 +631,9 @@ Round 4 - SDE with about 2 years of experience and SDE with around 5 years of ex
 Result: Just heard back yesterday from my recruiter that they were going to extend me an offer for SDE - I position (with expectations to be quickly promoted). Even though I was originally interviewing for the SCOT forecasting team but the two interviewers from my bar raiser are also considering to extend an offer for their respective teams (Ad analytics & AWS - ML).
 
 Advice to fellow leetcoders: Part of interviewing is luck as much as I hate to say it but that's the sad reality. Just try your best. Understand a problem and try to see how you can make it better (instead of solving new problems after you have reached a decent number that is). The solution or the discussions are a great way to do that.
+
+
+---
+
+### Misc Links
+https://www.rooftopslushie.com/request/Google%20engineering%20manager%20interviews-2019
