@@ -4,6 +4,11 @@ TECH_INTERVIEW_TODO
 [TOP PRIORITY]
 
 
+[TODO] Finish LC Top Easy Interview Questions
+    - finish all questions: target time <5 mins per question
+    - summarize problem solving patterns
+
+
 [TODO] Finish LC Top 75 Question List (reference/top_leetcode_questions.md)
     - study all solutions and note patterns for each category
     - solve all problems from scratch with notes
