@@ -9,3 +9,9 @@
 
 ## Linked Lists
 * Dummy note trick: A dummy node is a node in the list which has no value associated with it; they are usually located at the start and/or end of the list. The reason for using dummy nodes is that it makes certain list algorithms easier to implement by removing the need to have special cases for dealing with the first/last elements or with empty lists; this is because they ensure that there will always be at least at least one node.
+
+## String
+* string.isdigit() => returns whether all characters in a string are digits
+
+## Misc
+* 32-bit signed integer range: [−(2^31),  (2^31) − 1]
