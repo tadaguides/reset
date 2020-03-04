@@ -1,5 +1,7 @@
 # Problem Solving Strategies
 
+
+
 ## Arrays
 * Two pointer technique: https://leetcode.com/articles/two-pointer-technique/
 * Matrix rotation to the right 90 degrees == transpose THEN reverse rows
@@ -11,7 +13,20 @@
 * Dummy note trick: A dummy node is a node in the list which has no value associated with it; they are usually located at the start and/or end of the list. The reason for using dummy nodes is that it makes certain list algorithms easier to implement by removing the need to have special cases for dealing with the first/last elements or with empty lists; this is because they ensure that there will always be at least at least one node.
 
 ## String
-* string.isdigit() => returns whether all characters in a string are digits
 
-## Misc
+## Sliding Window Techniques
+{TODO} fill out this section
+
+## Backtracking Techniques
+{TODO} fill out this section
+
+## Recursion Techniques
+{TODO} fill out this section
+
+## Misc Tips
 * 32-bit signed integer range: [−(2^31),  (2^31) − 1]
+
+## Python Tips
+* string.isdigit() => returns whether all characters in a string are digits
+# string.isalnum() => returns whether all characters in a string is alphanumeric
+
