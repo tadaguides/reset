@@ -8,7 +8,7 @@ TECH_INTERVIEW_TODO
 - submit solutions to all questions on LC: target time < 10 mins per question
     * Array
     * Strings
-    - Linked Lists
+    * Linked Lists
     - Trees
     - Sorting and Searching
     - Dynamic Programming

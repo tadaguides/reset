@@ -3,7 +3,6 @@
 
 
 ## Arrays
-* Two pointer technique: https://leetcode.com/articles/two-pointer-technique/
 * Matrix rotation to the right 90 degrees == transpose THEN reverse rows
     * [[1,2,3],[4,5,6],[7,8,9]]^T => [[1,4,7],[2,5,8],[3,6,9]] => [[7,4,1],[8,5,2],[9,6,3]]
 * Reverse a string: strName[::-1]
@@ -11,16 +10,25 @@
 
 ## Linked Lists
 * Dummy note trick: A dummy node is a node in the list which has no value associated with it; they are usually located at the start and/or end of the list. The reason for using dummy nodes is that it makes certain list algorithms easier to implement by removing the need to have special cases for dealing with the first/last elements or with empty lists; this is because they ensure that there will always be at least at least one node.
+* Reversing a singly-linked list (iterative): keep pointers to previous node, current node, and next node => keep shifting to the right and swap direction until current node is None
 
 ## String
+
+## Two Pointer Techniques
+* Two pointer technique: https://leetcode.com/articles/two-pointer-technique/
+* Tortoise and Hare algorithm (for cycle detection): https://en.wikipedia.org/wiki/Cycle_detection#Tortoise_and_hare
 
 ## Sliding Window Techniques
 {TODO} fill out this section
 
-## Backtracking Techniques
-{TODO} fill out this section
 
 ## Recursion Techniques
+{TODO} fill out this section
+
+## Divide and Conquer Techniques
+{TODO} fill out this section
+
+## Backtracking Techniques
 {TODO} fill out this section
 
 ## Misc Tips
