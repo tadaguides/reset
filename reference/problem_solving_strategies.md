@@ -38,3 +38,8 @@
 * string.isdigit() => returns whether all characters in a string are digits
 # string.isalnum() => returns whether all characters in a string is alphanumeric
 
+---
+
+
+## Systems Design
+* https://leetcode.com/discuss/general-discussion/531253/people-who-take-system-design-interviews-what-exactly-are-you-looking-for
