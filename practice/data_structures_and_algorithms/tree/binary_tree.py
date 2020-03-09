@@ -7,7 +7,7 @@ class BinaryTreeNode(object):
         self.right = None
 
 
-class BinaryTreeTraversalAlgorithms(object):
+class BinaryTreeTraversal(object):
 
     def preorderTraversal(self, root):
         """
@@ -53,5 +53,5 @@ if __name__ == '__main__':
     node2.left = node3
     node2.right = node4
 
-    s = BinaryTreeTraversalAlgorithms()
+    s = BinaryTreeTraversal()
     print s.preorderTraversal(node1)

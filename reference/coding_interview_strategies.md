@@ -117,6 +117,22 @@ https://medium.com/@nick.ciubotariu/ace-the-coding-interview-every-time-d169ce1f
 
 ---
 
+## How many questions on LC is the wrong question
+* https://www.quora.com/Is-practicing-500-programming-questions-on-LeetCode-HackerEarth-etc-enough-to-prepare-for-a-Google-interview
+* Doing 500 programming questions on interview prep websites is not enough to prepare for a Google interview. Worse, it’s an inadviseable waste of time to do more than a few questions on such a site.
+* Here’s other things you should be concentrating on instead.
+  * Make sure you can solve problems standing up, verbalizing what you’re doing and why, and writing up code on a white board.
+  * Make sure you’re comfortable being interviewed on the phone, and answering coding and technical questions over the phone or in an editor window and/or shared coding tool.
+  * Review your resume, make sure it’s cogent and relevant, and make sure you can talk to the experience you list on it. Have a technical friend quiz you on it to make sure you have intelligent things to say about it.
+  * If it’s been a while since you’ve brushed up on core algorithms, get an algorithms book and review heaps, binary trees, hashing, that sort of thing. Understand how they work and why.
+  * Read up a bit on Google, and make sure you understand what part you’d like to work in and why, how they make their money, and their main business interests.
+  * Generate a list of sensible questions to ask at the interview.
+  * This will go a lot further than just solving lots of toy coding questions. That’s a good skill to have, but far from all you need to know.
+  * And of course, make sure you have a way of getting a Google interview. In my experience that’s a lot more difficult than passing the interview.
+
+
+---
+
 ## LeetCode Grinding Guide
 * https://www.reddit.com/r/cscareerquestions/comments/6luszf/a_leetcode_grinding_guide/
 * First of all, if you think studying CS fundamentals alone can land you offers, you may stop reading here. This guide is intended for those who would like to equip themselves with the necessary skills through LeetCode to tackle technical interviews. Grinding LeetCode is more than just memorizing answers, you have to learn the problem-solving patterns by heart and apply them to similar problems. The number of problems you have solved in LeetCode is only one of the indicators of your familiarness to the patterns, learning the patterns is more than only numbers.

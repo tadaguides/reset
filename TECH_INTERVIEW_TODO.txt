@@ -4,7 +4,19 @@ TECH_INTERVIEW_TODO
 [TOP PRIORITY]
 
 
-[TODO] Finish LC Top Easy Interview Questions (DUE: 06Mar2020 Midnight)
+[TODO] Finish Binary Tree Card: (DUE: 09Mar2020 Midnight)
+URL: https://leetcode.com/explore/learn/card/data-structure-tree/
+
+[TODO] Finish Binary Search Tree Card: (DUE: 10Mar2020 Midnight)
+URL: https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/
+
+[TODO] Finish Queue & Stack Card (DUE: 11Mar2020 Midnight)
+URL: https://leetcode.com/explore/learn/card/queue-stack/
+
+[TODO] Finish Recursion Card (DUE: 12Mar2020 Midnight)
+URL: https://leetcode.com/explore/learn/card/recursion-i/
+
+[TODO] Finish LC Top Easy Interview Questions (DUE: 15Mar2020 Midnight)
 - submit solutions to all questions on LC: target time < 10 mins per question
     * Array
     * Strings
@@ -20,14 +32,6 @@ TECH_INTERVIEW_TODO
     - Recursion: https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/886/
     - Binary Search: https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/887/
 
-[TODO] Finish LC Binary Tree Card: (DUE: 09Mar2020 Midnight)
-URL: https://leetcode.com/explore/learn/card/data-structure-tree/
-
-[TODO] Finish LC Queue & Stack Card (DUE: 09Mar2020 Midnight)
-URL: https://leetcode.com/explore/learn/card/queue-stack/
-
-[TODO] Finish LC Recursion Card (DUE: 09Mar2020 Midnight)
-URL: hhttps://leetcode.com/explore/learn/card/recursion-i/
 
 [TODO] Finish LC Top Medium Interview Questions (DUE: 15Mar2020 Midnight)
 - submit solutions to all questions on LC: target time < 20 mins per question
