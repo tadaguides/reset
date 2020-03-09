@@ -43,3 +43,4 @@
 
 ## Systems Design
 * https://leetcode.com/discuss/general-discussion/531253/people-who-take-system-design-interviews-what-exactly-are-you-looking-for
+* https://www.hiredintech.com/courses/system-design
