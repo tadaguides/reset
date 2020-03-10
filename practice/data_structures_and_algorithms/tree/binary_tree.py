@@ -9,7 +9,7 @@ class BinaryTreeNode(object):
 
 class BinaryTreeTraversal(object):
 
-    def preorderTraversal(self, root):
+    def doPreorderDFS(self, root):
         """
         DFS Preorder: Top -> Bottom, Left -> Right
         :type root: BinaryTreeNode
@@ -29,17 +29,38 @@ class BinaryTreeTraversal(object):
         # That naturally reproduces preorder traversal.
         while stack:
             root = stack.pop()
-            print 'current root: ', root.val
+            #print 'current root: ', root.val
             if root is not None:
                 output.append(root.val)
-                print 'output: ', output
+                #print 'output: ', output
                 if root.right is not None:
                     stack.append(root.right)
                 if root.left is not None:
                     stack.append(root.left)
-                print 'stack: ', [ s.val for s in stack ]
+                #print 'stack: ', [ s.val for s in stack ]
         
         return output
+
+    def doPostorderDFS(self,root):
+        pass
+
+    def doInorderDFS(self,root):
+        pass
+
+    def doInorderDFSRecursion(self,root):
+        def _helper(root, res):
+            if root:
+                if root.left:
+                    _helper(root.left, res)
+                res.append(root.val)
+                if root.right:
+                    _helper(root.right, res)
+        res = []
+        _helper(root, res)
+        return res
+
+    def doBFS(self,root):
+        pass
 
 if __name__ == '__main__':
     node1 = BinaryTreeNode(1)
@@ -54,4 +75,5 @@ if __name__ == '__main__':
     node2.right = node4
 
     s = BinaryTreeTraversal()
-    print s.preorderTraversal(node1)
+    print "DFS Preorder: ", s.doPreorderDFS(node1)
+    print "DFS Inorder (Recursion): ", s.doInorderDFSRecursion(node1)

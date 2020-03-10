@@ -15,6 +15,11 @@
 
 ---
 
+## TODIGEST:
+* https://medium.com/better-programming/how-to-ace-the-coding-interview-by-an-ex-facebook-interviewer-9c163a845d05
+
+---
+
 ## Maximizing Your Practice
 https://leetcode.com/explore/interview/card/coding-interview-strategy/208/preparation/1354/
 
