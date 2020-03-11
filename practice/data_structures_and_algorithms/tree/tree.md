@@ -26,9 +26,9 @@
 1. Memory Constraints As it stores all the nodes of present level to go for next level.
 2. If solution is far away then it consumes time.
 ### Application Of BFS :-
-1.Finding Shortest Path.
-2.Checking graph with bipertiteness.
-3.Copying cheiney's Algorithm.
+1. Finding Shortest Path.
+2. Checking graph with bipertiteness.
+3. Copying cheiney's Algorithm.
 ### Advantages Of DFS :-
 1. Memory requirement is Linear WRT Nodes.
 2. Less time and space complexity rather than BFS.
