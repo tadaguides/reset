@@ -15,8 +15,8 @@ Binary Tree Node Data Structure + Traversal Algorithms:
         - Time: O(N)
         - Space: O(N): but beware of stack overflow
     - BFS:
-        - Time:
-        - Space:
+        - Time: O(N)
+        - Space: O(N)
 - When to use BFS vs DFS?
     - use BFS - when you want to find the shortest path from a certain source node to a certain destination. (Or more generally, the smallest number of steps to reach the end state from a given initial state.)
     - use DFS - when you want to exhaust all possibilities, and check which one is the best/count the number of all possible ways.
