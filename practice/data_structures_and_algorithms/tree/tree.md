@@ -18,6 +18,20 @@
 * Use recursion to solve binary-tree-related problems
 
 ## BFS vs. DFS
+* In general:
+  * use BFS - when you want to find the shortest path from a certain source node to a certain destination. (Or more generally, the smallest number of steps to reach the end state from a given initial state.)
+  * use DFS - when you want to exhaust all possibilities, and check which one is the best/count the number of all possible ways.
+  * use either BFS or DFS - when you just want to check connectedness between two nodes on a given graph. (Or more generally, whether you could reach a given state to another.)
+* BFS vs. DFS heavily depends on the structure of the search tree and the number and location of solutions (aka searched-for items).
+  * If you know a solution is not far from the root of the tree, a breadth first search (BFS) might be better.
+  * If the tree is very deep and solutions are rare, depth first search (DFS) might take an extremely long time, but BFS could be faster.
+  * If the tree is very wide, a BFS might need too much memory, so it might be completely impractical.
+  * If solutions are frequent but located deep in the tree, BFS could be impractical.
+  * If the search tree is very deep you will need to restrict the search depth for depth first search (DFS), anyway (for example with iterative deepening).
+* Comparing BFS and DFS, the big advantage of DFS is that it has much lower memory requirements than BFS, because it’s not necessary to store all of the child pointers at each level. Depending on the data and what you are looking for, either DFS or BFS could be advantageous.
+* For example, given a family tree if one were looking for someone on the tree who’s still alive, then it would be safe to assume that person would be on the bottom of the tree. This means that a BFS would take a very long time to reach that last level. A DFS, however, would find the goal faster. But, if one were looking for a family member who died a very long time ago, then that person would be closer to the top of the tree. Then, a BFS would usually be faster than a DFS. So, the advantages of either vary depending on the data and what you’re looking for.
+* One more example is Facebook; Suggestion on Friends of Friends. We need immediate friends for suggestion where we can use BFS. May be finding the shortest path or detecting the cycle (using recursion) we can use DFS.
+
 ### Advantages of  BFS:-
 1. Solution will definitely found out by BFS If there are some solution.
 2. BFS will never get trapped in blind alley , means unwanted nodes.
@@ -41,5 +55,10 @@
 1. Finding Connected components.
 2. Topological sorting.
 3. Finding Bridges of graph.
+
+### BFS vs DFS Reference
+* https://www.programmerinterview.com/data-structures/dfs-vs-bfs/
+* https://stackoverflow.com/questions/3332947/when-is-it-practical-to-use-depth-first-search-dfs-vs-breadth-first-search-bf
+* https://www.quora.com/What-are-the-advantages-of-using-BFS-over-DFS-or-using-DFS-over-BFS-What-are-the-applications-and-downsides-of-each
 
 ---
