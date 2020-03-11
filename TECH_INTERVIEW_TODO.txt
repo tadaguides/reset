@@ -4,16 +4,18 @@ TECH_INTERVIEW_TODO
 [TOP PRIORITY]
 
 
-[TODO] Finish Binary Tree Card: (DUE: 09Mar2020 Midnight)
+[TODO] Finish Binary Tree Card: (DUE: 11Mar2020 Midnight)
 URL: https://leetcode.com/explore/learn/card/data-structure-tree/
+* Tree Traversal Algorithms
+* Solving Tree Problems Recursively
 
-[TODO] Finish Binary Search Tree Card: (DUE: 10Mar2020 Midnight)
+[TODO] Finish Binary Search Tree Card: (DUE: 13Mar2020 Midnight)
 URL: https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/
 
-[TODO] Finish Queue & Stack Card (DUE: 11Mar2020 Midnight)
+[TODO] Finish Queue & Stack Card (DUE: 15Mar2020 Midnight)
 URL: https://leetcode.com/explore/learn/card/queue-stack/
 
-[TODO] Finish Recursion Card (DUE: 12Mar2020 Midnight)
+[TODO] Finish Recursion Card (DUE: 15Mar2020 Midnight)
 URL: https://leetcode.com/explore/learn/card/recursion-i/
 
 [TODO] Finish LC Top Easy Interview Questions (DUE: 15Mar2020 Midnight)

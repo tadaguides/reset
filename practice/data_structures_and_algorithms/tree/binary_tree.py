@@ -18,8 +18,9 @@ Binary Tree Node Data Structure + Traversal Algorithms:
         - Time:
         - Space:
 - When to use BFS vs DFS?
-    - BFS
-    - DFS
+    - use BFS - when you want to find the shortest path from a certain source node to a certain destination. (Or more generally, the smallest number of steps to reach the end state from a given initial state.)
+    - use DFS - when you want to exhaust all possibilities, and check which one is the best/count the number of all possible ways.
+    - use either BFS or DFS - when you just want to check connectedness between two nodes on a given graph. (Or more generally, whether you could reach a given state to another.)
 """
 # Definition for a binary tree node.
 class BinaryTreeNode(object):
@@ -184,7 +185,7 @@ class BinaryTreeTraversal(object):
             - Initiate queue with a root and start from the level number 0 : level = 0.
             - While queue is not empty:
                 - Start the current level by adding an empty list into output structure levels.
-                - Compute how many elements should be on the current level : it's a queue length.
+                - Compute how many elements should be on the current level: it's the queue's current length.
                 - Pop out all these elements from the queue and add them into the current level.
                 - Push their child nodes into the queue for the next level.
                 - Go to the next level level++.
