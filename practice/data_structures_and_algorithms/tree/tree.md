@@ -67,7 +67,7 @@
 
 ### "Top-Down" Solution
 * "Top-down" means that in each recursive call, we will visit the node first to come up with some values, and pass these values to its children when calling the function recursively. 
-* So the "top-down" solution can be considered as a kind of preorder traversal. 
+* So the "top-down" solution can be considered as a kind of preorder traversal (Root -> Left -> Right). 
 * The recursive function top_down(root, params) works like this:
   1. return specific value for null node
   2. update the answer if needed                      // answer <-- params
