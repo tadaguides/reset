@@ -22,6 +22,8 @@ Binary Tree Node Data Structure + Traversal Algorithms:
     - use DFS - when you want to exhaust all possibilities, and check which one is the best/count the number of all possible ways.
     - use either BFS or DFS - when you just want to check connectedness between two nodes on a given graph. (Or more generally, whether you could reach a given state to another.)
 """
+
+
 # Definition for a binary tree node.
 class BinaryTreeNode(object):
     def __init__(self, x):
@@ -266,6 +268,7 @@ class BinaryTreeTraversal(object):
         # call helper function starting at root and level 0
         helper(root, 0)
         return levels
+
 
 if __name__ == '__main__':
     print ""

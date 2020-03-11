@@ -6,8 +6,20 @@ TECH_INTERVIEW_TODO
 
 [TODO] Finish Binary Tree Card: (DUE: 11Mar2020 Midnight)
 URL: https://leetcode.com/explore/learn/card/data-structure-tree/
-* Tree Traversal Algorithms
-* Solving Tree Problems Recursively
+* Implement/Digest Tree Traversal Algorithms
+* Digest "Solving Tree Problems Recursively"
+- Solve Recursion Problems Related to Binary Trees
+    - Max Depth of Binary Tree
+    - Symmetric Tree
+    - Path Sum
+    - Count Univalue Subtrees
+- Solve Binary Tree Problems
+    - Construct Binary Tree from Inorder and Postorder Traversal
+    - Construct Binary Tree from Preorder and Inorder Traversal
+    - Populating Next Right Pointers in Each Node
+    - Populating Next Right Pointers in Each Node II
+    - Lowest Common Ancestor of a Binary Tree
+    - Serialize and Deserialize Binary Tree
 
 [TODO] Finish Binary Search Tree Card: (DUE: 13Mar2020 Midnight)
 URL: https://leetcode.com/explore/learn/card/introduction-to-data-structure-binary-search-tree/
